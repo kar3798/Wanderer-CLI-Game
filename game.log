@@ -1,0 +1,1145 @@
+Game Engine initialized.
+Shutting down Game Engine.
+Game Engine initialized.
+Shutting down Game Engine.
+Game Engine initialized.
+Shutting down Game Engine.
+Game Engine initialized.
+Shutting down Game Engine.
+[2025-08-01 20:21:26] Initializing Game Engine.
+[2025-08-01 20:21:26] Game Started.
+[2025-08-01 20:21:26] Game loop started.
+[2025-08-01 20:21:36] Generating basic room.
+[2025-08-01 20:21:38] User input: q
+[2025-08-01 20:21:38] Updating world state.
+[2025-08-01 20:21:38] Processing turn.
+[2025-08-01 20:21:38] Shutting down Game Engine.
+[2025-08-01 20:27:54] Initializing Game Engine.
+[2025-08-01 20:27:54] Game Started.
+[2025-08-01 20:27:54] Game loop started.
+[2025-08-01 20:28:04] Generating basic room.
+[2025-08-01 20:28:11] User input: w
+[2025-08-01 20:28:11] Player moved up (W)
+[2025-08-01 20:28:11] Updating world state.
+[2025-08-01 20:28:11] Processing turn.
+[2025-08-01 20:28:12] User input: a
+[2025-08-01 20:28:12] Player moved left (A)
+[2025-08-01 20:28:12] Updating world state.
+[2025-08-01 20:28:12] Processing turn.
+[2025-08-01 20:28:14] User input: d
+[2025-08-01 20:28:14] Player moved right (D)
+[2025-08-01 20:28:14] Updating world state.
+[2025-08-01 20:28:14] Processing turn.
+[2025-08-01 20:28:14] User input: s
+[2025-08-01 20:28:14] Player moved down (S)
+[2025-08-01 20:28:14] Updating world state.
+[2025-08-01 20:28:14] Processing turn.
+[2025-08-01 20:28:15] User input: s
+[2025-08-01 20:28:15] Player moved down (S)
+[2025-08-01 20:28:15] Updating world state.
+[2025-08-01 20:28:15] Processing turn.
+[2025-08-01 20:28:16] User input: d
+[2025-08-01 20:28:16] Player moved right (D)
+[2025-08-01 20:28:16] Updating world state.
+[2025-08-01 20:28:16] Processing turn.
+[2025-08-01 20:28:16] User input: d
+[2025-08-01 20:28:16] Player moved right (D)
+[2025-08-01 20:28:16] Updating world state.
+[2025-08-01 20:28:16] Processing turn.
+[2025-08-01 20:28:17] User input: a
+[2025-08-01 20:28:17] Player moved left (A)
+[2025-08-01 20:28:17] Updating world state.
+[2025-08-01 20:28:17] Processing turn.
+[2025-08-01 20:28:18] User input: w
+[2025-08-01 20:28:18] Player moved up (W)
+[2025-08-01 20:28:18] Updating world state.
+[2025-08-01 20:28:18] Processing turn.
+[2025-08-01 20:28:18] User input: a
+[2025-08-01 20:28:18] Player moved left (A)
+[2025-08-01 20:28:18] Updating world state.
+[2025-08-01 20:28:18] Processing turn.
+[2025-08-01 20:28:19] User input: w
+[2025-08-01 20:28:19] Player moved up (W)
+[2025-08-01 20:28:19] Updating world state.
+[2025-08-01 20:28:19] Processing turn.
+[2025-08-01 20:28:20] User input: a
+[2025-08-01 20:28:20] Player moved left (A)
+[2025-08-01 20:28:20] Updating world state.
+[2025-08-01 20:28:20] Processing turn.
+[2025-08-01 20:28:21] User input: q
+[2025-08-01 20:28:21] Updating world state.
+[2025-08-01 20:28:21] Processing turn.
+[2025-08-01 20:28:21] Shutting down Game Engine.
+[2025-08-01 20:38:45] Initializing Game Engine.
+[2025-08-01 20:38:45] Game Started.
+[2025-08-01 20:38:45] Game loop started.
+[2025-08-01 20:38:56] Generating basic room.
+[2025-08-01 20:38:58] User input: q
+[2025-08-01 20:38:58] Updating world state.
+[2025-08-01 20:38:58] Processing turn.
+[2025-08-01 20:38:58] Shutting down Game Engine.
+[2025-08-01 20:39:06] Initializing Game Engine.
+[2025-08-01 20:39:06] Game Started.
+[2025-08-01 20:39:06] Game loop started.
+[2025-08-01 20:39:17] Generating basic room.
+[2025-08-01 20:39:19] User input: q
+[2025-08-01 20:39:19] Updating world state.
+[2025-08-01 20:39:19] Processing turn.
+[2025-08-01 20:39:19] Shutting down Game Engine.
+[2025-08-01 20:39:42] Initializing Game Engine.
+[2025-08-01 20:39:42] Game Started.
+[2025-08-01 20:39:42] Game loop started.
+[2025-08-01 20:39:47] Generating basic room.
+[2025-08-01 20:40:10] User input: q
+[2025-08-01 20:40:10] Updating world state.
+[2025-08-01 20:40:10] Processing turn.
+[2025-08-01 20:40:10] Shutting down Game Engine.
+[2025-08-01 20:52:02] Initializing Game Engine.
+[2025-08-01 20:52:02] Game Started.
+[2025-08-01 20:52:02] Game loop started.
+[2025-08-01 20:52:07] Generating basic room.
+[2025-08-01 20:52:09] User input: q
+[2025-08-01 20:52:09] Updating world state.
+[2025-08-01 20:52:09] Processing turn.
+[2025-08-01 20:52:09] Shutting down Game Engine.
+[2025-08-01 20:52:17] Initializing Game Engine.
+[2025-08-01 20:52:17] Game Started.
+[2025-08-01 20:52:17] Game loop started.
+[2025-08-01 20:52:23] Generating basic room.
+[2025-08-01 20:52:31] User input: 
+[2025-08-01 20:52:31] Updating world state.
+[2025-08-01 20:52:31] Processing turn.
+[2025-08-01 20:52:41] User input: W
+[2025-08-01 20:52:41] Updating world state.
+[2025-08-01 20:52:41] Processing turn.
+[2025-08-01 20:52:48] User input: W
+[2025-08-01 20:52:48] Updating world state.
+[2025-08-01 20:52:48] Processing turn.
+[2025-08-01 20:52:57] User input: W
+[2025-08-01 20:52:57] Updating world state.
+[2025-08-01 20:52:57] Processing turn.
+[2025-08-01 20:52:59] User input: s
+[2025-08-01 20:52:59] Player moved down (S)
+[2025-08-01 20:52:59] Updating world state.
+[2025-08-01 20:52:59] Processing turn.
+[2025-08-01 20:53:01] User input: S
+[2025-08-01 20:53:01] Updating world state.
+[2025-08-01 20:53:01] Processing turn.
+[2025-08-01 20:53:03] User input: W
+[2025-08-01 20:53:03] Updating world state.
+[2025-08-01 20:53:03] Processing turn.
+[2025-08-01 20:53:05] User input: s
+[2025-08-01 20:53:05] Updating world state.
+[2025-08-01 20:53:05] Processing turn.
+[2025-08-01 20:53:06] User input: a
+[2025-08-01 20:53:06] Player moved left (A)
+[2025-08-01 20:53:06] Updating world state.
+[2025-08-01 20:53:06] Processing turn.
+[2025-08-01 20:53:07] User input: d
+[2025-08-01 20:53:07] Player moved right (D)
+[2025-08-01 20:53:07] Updating world state.
+[2025-08-01 20:53:07] Processing turn.
+[2025-08-01 20:53:08] User input: w
+[2025-08-01 20:53:08] Player moved up (W)
+[2025-08-01 20:53:08] Updating world state.
+[2025-08-01 20:53:08] Processing turn.
+[2025-08-01 20:53:09] User input: w
+[2025-08-01 20:53:09] Player moved up (W)
+[2025-08-01 20:53:09] Updating world state.
+[2025-08-01 20:53:09] Processing turn.
+[2025-08-01 20:53:10] User input: a
+[2025-08-01 20:53:10] Player moved left (A)
+[2025-08-01 20:53:10] Updating world state.
+[2025-08-01 20:53:10] Processing turn.
+[2025-08-01 20:53:10] User input: d
+[2025-08-01 20:53:10] Player moved right (D)
+[2025-08-01 20:53:10] Updating world state.
+[2025-08-01 20:53:10] Processing turn.
+[2025-08-01 20:53:11] User input: d
+[2025-08-01 20:53:11] Player moved right (D)
+[2025-08-01 20:53:11] Updating world state.
+[2025-08-01 20:53:11] Processing turn.
+[2025-08-01 20:53:11] User input: d
+[2025-08-01 20:53:11] Player moved right (D)
+[2025-08-01 20:53:11] Updating world state.
+[2025-08-01 20:53:11] Processing turn.
+[2025-08-01 20:53:11] User input: d
+[2025-08-01 20:53:11] Player moved right (D)
+[2025-08-01 20:53:11] Updating world state.
+[2025-08-01 20:53:11] Processing turn.
+[2025-08-01 20:53:11] User input: d
+[2025-08-01 20:53:11] Player moved right (D)
+[2025-08-01 20:53:11] Updating world state.
+[2025-08-01 20:53:11] Processing turn.
+[2025-08-01 20:53:12] User input: d
+[2025-08-01 20:53:12] Player moved right (D)
+[2025-08-01 20:53:12] Updating world state.
+[2025-08-01 20:53:12] Processing turn.
+[2025-08-01 20:53:13] User input: q
+[2025-08-01 20:53:13] Updating world state.
+[2025-08-01 20:53:13] Processing turn.
+[2025-08-01 20:53:13] Shutting down Game Engine.
+[2025-08-01 20:55:34] Initializing Game Engine.
+[2025-08-01 20:55:34] Game Started.
+[2025-08-01 20:55:34] Game loop started.
+[2025-08-01 20:55:40] Generating basic room.
+[2025-08-01 20:55:57] User input: w
+[2025-08-01 20:55:57] Player moved up (W)
+[2025-08-01 20:55:57] Updating world state.
+[2025-08-01 20:55:57] Processing turn.
+[2025-08-01 20:55:59] User input: d
+[2025-08-01 20:55:59] Player moved right (D)
+[2025-08-01 20:55:59] Updating world state.
+[2025-08-01 20:55:59] Processing turn.
+[2025-08-01 20:56:00] User input: a
+[2025-08-01 20:56:00] Player moved left (A)
+[2025-08-01 20:56:00] Updating world state.
+[2025-08-01 20:56:00] Processing turn.
+[2025-08-01 20:56:01] User input: s
+[2025-08-01 20:56:01] Player moved down (S)
+[2025-08-01 20:56:01] Updating world state.
+[2025-08-01 20:56:01] Processing turn.
+[2025-08-01 20:56:02] User input: d
+[2025-08-01 20:56:02] Player moved right (D)
+[2025-08-01 20:56:02] Updating world state.
+[2025-08-01 20:56:02] Processing turn.
+[2025-08-01 20:56:02] User input: 
+[2025-08-01 20:56:02] Updating world state.
+[2025-08-01 20:56:02] Processing turn.
+[2025-08-01 20:56:03] User input: w
+[2025-08-01 20:56:03] Player moved up (W)
+[2025-08-01 20:56:03] Updating world state.
+[2025-08-01 20:56:03] Processing turn.
+[2025-08-01 20:56:04] User input: d
+[2025-08-01 20:56:04] Player moved right (D)
+[2025-08-01 20:56:04] Updating world state.
+[2025-08-01 20:56:04] Processing turn.
+[2025-08-01 20:57:32] User input: q
+[2025-08-01 20:57:32] Updating world state.
+[2025-08-01 20:57:32] Processing turn.
+[2025-08-01 20:57:32] Shutting down Game Engine.
+[2025-08-01 21:03:36] Initializing Game Engine.
+[2025-08-01 21:03:36] Game Started.
+[2025-08-01 21:03:36] Game loop started.
+[2025-08-01 21:03:42] Generating basic room.
+[2025-08-01 21:03:45] User input: d
+[2025-08-01 21:03:45] Player moved right (D)
+[2025-08-01 21:03:45] Updating world state.
+[2025-08-01 21:03:45] Processing turn.
+[2025-08-01 21:03:46] User input: d
+[2025-08-01 21:03:46] Player moved right (D)
+[2025-08-01 21:03:46] Updating world state.
+[2025-08-01 21:03:46] Processing turn.
+[2025-08-01 21:03:46] User input: d
+[2025-08-01 21:03:46] Player moved right (D)
+[2025-08-01 21:03:46] Updating world state.
+[2025-08-01 21:03:46] Processing turn.
+[2025-08-01 21:03:47] User input: w
+[2025-08-01 21:03:47] Player moved up (W)
+[2025-08-01 21:03:47] Updating world state.
+[2025-08-01 21:03:47] Processing turn.
+[2025-08-01 21:03:47] User input: a
+[2025-08-01 21:03:47] Player moved left (A)
+[2025-08-01 21:03:47] Updating world state.
+[2025-08-01 21:03:47] Processing turn.
+[2025-08-01 21:03:48] User input: s
+[2025-08-01 21:03:48] Player moved down (S)
+[2025-08-01 21:03:48] Updating world state.
+[2025-08-01 21:03:48] Processing turn.
+[2025-08-01 21:03:48] User input: s
+[2025-08-01 21:03:48] Player moved down (S)
+[2025-08-01 21:03:48] Updating world state.
+[2025-08-01 21:03:48] Processing turn.
+[2025-08-01 21:03:49] User input: d
+[2025-08-01 21:03:49] Player moved right (D)
+[2025-08-01 21:03:49] Updating world state.
+[2025-08-01 21:03:49] Processing turn.
+[2025-08-01 21:03:49] User input: d
+[2025-08-01 21:03:49] Player moved right (D)
+[2025-08-01 21:03:49] Updating world state.
+[2025-08-01 21:03:49] Processing turn.
+[2025-08-01 21:03:50] User input: a
+[2025-08-01 21:03:50] Player moved left (A)
+[2025-08-01 21:03:50] Updating world state.
+[2025-08-01 21:03:50] Processing turn.
+[2025-08-01 21:03:50] User input: a
+[2025-08-01 21:03:50] Player moved left (A)
+[2025-08-01 21:03:50] Updating world state.
+[2025-08-01 21:03:50] Processing turn.
+[2025-08-01 21:03:51] User input: a
+[2025-08-01 21:03:51] Player moved left (A)
+[2025-08-01 21:03:51] Updating world state.
+[2025-08-01 21:03:51] Processing turn.
+[2025-08-01 21:03:51] User input: w
+[2025-08-01 21:03:51] Player moved up (W)
+[2025-08-01 21:03:51] Updating world state.
+[2025-08-01 21:03:51] Processing turn.
+[2025-08-01 21:03:52] User input: w
+[2025-08-01 21:03:52] Player moved up (W)
+[2025-08-01 21:03:52] Updating world state.
+[2025-08-01 21:03:52] Processing turn.
+[2025-08-01 21:03:52] User input: d
+[2025-08-01 21:03:52] Player moved right (D)
+[2025-08-01 21:03:52] Updating world state.
+[2025-08-01 21:03:52] Processing turn.
+[2025-08-01 21:03:52] User input: d
+[2025-08-01 21:03:52] Player moved right (D)
+[2025-08-01 21:03:52] Updating world state.
+[2025-08-01 21:03:52] Processing turn.
+[2025-08-01 21:03:53] User input: d
+[2025-08-01 21:03:53] Player moved right (D)
+[2025-08-01 21:03:53] Updating world state.
+[2025-08-01 21:03:53] Processing turn.
+[2025-08-01 21:03:53] User input: d
+[2025-08-01 21:03:53] Player moved right (D)
+[2025-08-01 21:03:53] Updating world state.
+[2025-08-01 21:03:53] Processing turn.
+[2025-08-01 21:03:53] User input: d
+[2025-08-01 21:03:53] Player moved right (D)
+[2025-08-01 21:03:53] Updating world state.
+[2025-08-01 21:03:53] Processing turn.
+[2025-08-01 21:03:54] User input: s
+[2025-08-01 21:03:54] Player moved down (S)
+[2025-08-01 21:03:54] Updating world state.
+[2025-08-01 21:03:54] Processing turn.
+[2025-08-01 21:03:54] User input: s
+[2025-08-01 21:03:54] Player moved down (S)
+[2025-08-01 21:03:54] Updating world state.
+[2025-08-01 21:03:54] Processing turn.
+[2025-08-01 21:03:54] User input: s
+[2025-08-01 21:03:54] Updating world state.
+[2025-08-01 21:03:54] Processing turn.
+[2025-08-01 21:03:55] User input: a
+[2025-08-01 21:03:55] Player moved left (A)
+[2025-08-01 21:03:55] Updating world state.
+[2025-08-01 21:03:55] Processing turn.
+[2025-08-01 21:03:55] User input: a
+[2025-08-01 21:03:55] Player moved left (A)
+[2025-08-01 21:03:55] Updating world state.
+[2025-08-01 21:03:55] Processing turn.
+[2025-08-01 21:03:55] User input: a
+[2025-08-01 21:03:55] Player moved left (A)
+[2025-08-01 21:03:55] Updating world state.
+[2025-08-01 21:03:55] Processing turn.
+[2025-08-01 21:03:56] User input: a
+[2025-08-01 21:03:56] Player moved left (A)
+[2025-08-01 21:03:56] Updating world state.
+[2025-08-01 21:03:56] Processing turn.
+[2025-08-01 21:03:56] User input: a
+[2025-08-01 21:03:56] Player moved left (A)
+[2025-08-01 21:03:56] Updating world state.
+[2025-08-01 21:03:56] Processing turn.
+[2025-08-01 21:03:56] User input: a
+[2025-08-01 21:03:56] Player moved left (A)
+[2025-08-01 21:03:56] Updating world state.
+[2025-08-01 21:03:56] Processing turn.
+[2025-08-01 21:03:56] User input: a
+[2025-08-01 21:03:56] Player moved left (A)
+[2025-08-01 21:03:56] Updating world state.
+[2025-08-01 21:03:56] Processing turn.
+[2025-08-01 21:03:57] User input: aw
+[2025-08-01 21:03:57] Updating world state.
+[2025-08-01 21:03:57] Processing turn.
+[2025-08-01 21:03:57] User input: w
+[2025-08-01 21:03:57] Player moved up (W)
+[2025-08-01 21:03:57] Updating world state.
+[2025-08-01 21:03:57] Processing turn.
+[2025-08-01 21:03:57] User input: w
+[2025-08-01 21:03:57] Player moved up (W)
+[2025-08-01 21:03:57] Updating world state.
+[2025-08-01 21:03:57] Processing turn.
+[2025-08-01 21:03:58] User input: w
+[2025-08-01 21:03:58] Updating world state.
+[2025-08-01 21:03:58] Processing turn.
+[2025-08-01 21:03:58] User input: d
+[2025-08-01 21:03:58] Player moved right (D)
+[2025-08-01 21:03:58] Updating world state.
+[2025-08-01 21:03:58] Processing turn.
+[2025-08-01 21:03:58] User input: d
+[2025-08-01 21:03:58] Player moved right (D)
+[2025-08-01 21:03:58] Updating world state.
+[2025-08-01 21:03:58] Processing turn.
+[2025-08-01 21:03:58] User input: d
+[2025-08-01 21:03:58] Player moved right (D)
+[2025-08-01 21:03:58] Updating world state.
+[2025-08-01 21:03:58] Processing turn.
+[2025-08-01 21:03:59] User input: d
+[2025-08-01 21:03:59] Player moved right (D)
+[2025-08-01 21:03:59] Updating world state.
+[2025-08-01 21:03:59] Processing turn.
+[2025-08-01 21:03:59] User input: d
+[2025-08-01 21:03:59] Player moved right (D)
+[2025-08-01 21:03:59] Updating world state.
+[2025-08-01 21:03:59] Processing turn.
+[2025-08-01 21:03:59] User input: d
+[2025-08-01 21:03:59] Player moved right (D)
+[2025-08-01 21:03:59] Updating world state.
+[2025-08-01 21:03:59] Processing turn.
+[2025-08-01 21:03:59] User input: d
+[2025-08-01 21:03:59] Player moved right (D)
+[2025-08-01 21:03:59] Updating world state.
+[2025-08-01 21:03:59] Processing turn.
+[2025-08-01 21:03:59] User input: s
+[2025-08-01 21:03:59] Player moved down (S)
+[2025-08-01 21:03:59] Updating world state.
+[2025-08-01 21:04:00] Processing turn.
+[2025-08-01 21:04:00] User input: s
+[2025-08-01 21:04:00] Player moved down (S)
+[2025-08-01 21:04:00] Updating world state.
+[2025-08-01 21:04:00] Processing turn.
+[2025-08-01 21:04:00] User input: s
+[2025-08-01 21:04:00] Updating world state.
+[2025-08-01 21:04:00] Processing turn.
+[2025-08-01 21:04:00] User input: sa
+[2025-08-01 21:04:00] Updating world state.
+[2025-08-01 21:04:00] Processing turn.
+[2025-08-01 21:04:00] User input: a
+[2025-08-01 21:04:00] Player moved left (A)
+[2025-08-01 21:04:00] Updating world state.
+[2025-08-01 21:04:00] Processing turn.
+[2025-08-01 21:04:01] User input: a
+[2025-08-01 21:04:01] Player moved left (A)
+[2025-08-01 21:04:01] Updating world state.
+[2025-08-01 21:04:01] Processing turn.
+[2025-08-01 21:04:01] User input: aa
+[2025-08-01 21:04:01] Updating world state.
+[2025-08-01 21:04:01] Processing turn.
+[2025-08-01 21:04:02] User input: 1
+[2025-08-01 21:04:02] Updating world state.
+[2025-08-01 21:04:02] Processing turn.
+[2025-08-01 21:04:04] User input: q
+[2025-08-01 21:04:04] Updating world state.
+[2025-08-01 21:04:04] Processing turn.
+[2025-08-01 21:04:04] Shutting down Game Engine.
+[2025-08-02 21:03:22] Initializing Game Engine.
+[2025-08-02 21:03:22] Game Started.
+[2025-08-02 21:03:22] Game loop started.
+[2025-08-02 21:03:28] Generating basic room.
+[2025-08-02 21:03:32] User input: w
+[2025-08-02 21:03:32] Player moved up (W)
+[2025-08-02 21:03:32] Updating world state.
+[2025-08-02 21:03:32] Processing turn.
+[2025-08-02 21:03:33] User input: d
+[2025-08-02 21:03:33] Player moved right (D)
+[2025-08-02 21:03:33] Updating world state.
+[2025-08-02 21:03:33] Processing turn.
+[2025-08-02 21:03:33] User input: d
+[2025-08-02 21:03:33] Player moved right (D)
+[2025-08-02 21:03:33] Updating world state.
+[2025-08-02 21:03:33] Processing turn.
+[2025-08-02 21:03:34] User input: s
+[2025-08-02 21:03:34] Player moved down (S)
+[2025-08-02 21:03:34] Updating world state.
+[2025-08-02 21:03:34] Processing turn.
+[2025-08-02 21:03:35] User input: d
+[2025-08-02 21:03:35] Player moved right (D)
+[2025-08-02 21:03:35] Updating world state.
+[2025-08-02 21:03:35] Processing turn.
+[2025-08-02 21:03:35] User input: d
+[2025-08-02 21:03:35] Player moved right (D)
+[2025-08-02 21:03:35] Updating world state.
+[2025-08-02 21:03:35] Processing turn.
+[2025-08-02 21:03:36] User input: a
+[2025-08-02 21:03:36] Player moved left (A)
+[2025-08-02 21:03:36] Updating world state.
+[2025-08-02 21:03:36] Processing turn.
+[2025-08-02 21:03:37] User input: a
+[2025-08-02 21:03:37] Player moved left (A)
+[2025-08-02 21:03:37] Updating world state.
+[2025-08-02 21:03:37] Processing turn.
+[2025-08-02 21:03:37] User input: s
+[2025-08-02 21:03:37] Player moved down (S)
+[2025-08-02 21:03:37] Updating world state.
+[2025-08-02 21:03:37] Processing turn.
+[2025-08-02 21:03:38] User input: d
+[2025-08-02 21:03:38] Player moved right (D)
+[2025-08-02 21:03:38] Updating world state.
+[2025-08-02 21:03:38] Processing turn.
+[2025-08-02 21:03:39] User input: q
+[2025-08-02 21:03:39] Updating world state.
+[2025-08-02 21:03:39] Processing turn.
+[2025-08-02 21:03:39] Shutting down Game Engine.
+[2025-08-02 21:04:04] Initializing Game Engine.
+[2025-08-02 21:04:04] Game Started.
+[2025-08-02 21:04:04] Game loop started.
+[2025-08-02 21:04:09] Generating basic room.
+[2025-08-02 21:04:30] User input: q
+[2025-08-02 21:04:30] Updating world state.
+[2025-08-02 21:04:30] Processing turn.
+[2025-08-02 21:04:30] Shutting down Game Engine.
+[2025-08-02 21:05:39] Initializing Game Engine.
+[2025-08-02 21:05:39] Game Started.
+[2025-08-02 21:05:39] Game loop started.
+[2025-08-02 21:05:44] Generating basic room.
+[2025-08-02 21:27:33] User input: q
+[2025-08-02 21:27:33] Updating world state.
+[2025-08-02 21:27:33] Processing turn.
+[2025-08-02 21:27:33] Shutting down Game Engine.
+[2025-08-02 21:35:22] Initializing Game Engine.
+[2025-08-02 21:35:22] Game Started.
+[2025-08-02 21:35:22] Game loop started.
+[2025-08-02 21:35:28] Generating basic room.
+[2025-08-02 21:35:30] User input: w
+[2025-08-02 21:35:30] Player moved up (W)
+[2025-08-02 21:35:30] Updating world state.
+[2025-08-02 21:35:30] Processing turn.
+[2025-08-02 21:35:30] User input: a
+[2025-08-02 21:35:30] Player moved left (A)
+[2025-08-02 21:35:30] Updating world state.
+[2025-08-02 21:35:30] Processing turn.
+[2025-08-02 21:35:31] User input: s
+[2025-08-02 21:35:31] Player moved down (S)
+[2025-08-02 21:35:31] Updating world state.
+[2025-08-02 21:35:31] Processing turn.
+[2025-08-02 21:35:32] User input: s
+[2025-08-02 21:35:32] Player moved down (S)
+[2025-08-02 21:35:32] Updating world state.
+[2025-08-02 21:35:32] Processing turn.
+[2025-08-02 21:35:32] User input: d
+[2025-08-02 21:35:32] Player moved right (D)
+[2025-08-02 21:35:32] Updating world state.
+[2025-08-02 21:35:32] Processing turn.
+[2025-08-02 21:35:32] User input: d
+[2025-08-02 21:35:32] Player moved right (D)
+[2025-08-02 21:35:32] Updating world state.
+[2025-08-02 21:35:32] Processing turn.
+[2025-08-02 21:35:37] User input: use potion
+[2025-08-02 21:35:37] Updating world state.
+[2025-08-02 21:35:37] Processing turn.
+[2025-08-02 21:35:43] User input: use potion
+[2025-08-02 21:35:43] Updating world state.
+[2025-08-02 21:35:43] Processing turn.
+[2025-08-02 21:35:48] User input: W
+[2025-08-02 21:35:48] Player moved up (W)
+[2025-08-02 21:35:48] Updating world state.
+[2025-08-02 21:35:48] Processing turn.
+[2025-08-02 21:35:49] User input: W
+[2025-08-02 21:35:49] Player moved up (W)
+[2025-08-02 21:35:49] Updating world state.
+[2025-08-02 21:35:49] Processing turn.
+[2025-08-02 21:35:50] User input: A
+[2025-08-02 21:35:50] Player moved left (A)
+[2025-08-02 21:35:50] Updating world state.
+[2025-08-02 21:35:50] Processing turn.
+[2025-08-02 21:35:51] User input: S
+[2025-08-02 21:35:51] Player moved down (S)
+[2025-08-02 21:35:51] Updating world state.
+[2025-08-02 21:35:51] Processing turn.
+[2025-08-02 21:36:58] Initializing Game Engine.
+[2025-08-02 21:36:58] Game Started.
+[2025-08-02 21:36:58] Game loop started.
+[2025-08-02 21:37:03] Generating basic room.
+[2025-08-02 21:37:08] User input: use potion
+[2025-08-02 21:37:08] Updating world state.
+[2025-08-02 21:37:08] Processing turn.
+[2025-08-02 21:38:05] User input: q
+[2025-08-02 21:38:05] Updating world state.
+[2025-08-02 21:38:05] Processing turn.
+[2025-08-02 21:38:05] Shutting down Game Engine.
+[2025-08-02 21:39:37] Initializing Game Engine.
+[2025-08-02 21:39:37] Game Started.
+[2025-08-02 21:39:37] Game loop started.
+[2025-08-02 21:39:42] Generating basic room.
+[2025-08-02 21:39:47] User input: use potion
+[2025-08-02 21:39:47] Updating world state.
+[2025-08-02 21:39:47] Processing turn.
+[2025-08-02 21:41:21] User input: q
+[2025-08-02 21:41:21] Updating world state.
+[2025-08-02 21:41:21] Processing turn.
+[2025-08-02 21:41:21] Shutting down Game Engine.
+[2025-08-02 21:42:14] Initializing Game Engine.
+[2025-08-02 21:42:14] Game Started.
+[2025-08-02 21:42:14] Game loop started.
+[2025-08-02 21:42:19] Generating basic room.
+[2025-08-02 21:42:27] User input: use potion
+[2025-08-02 21:42:28] Updating world state.
+[2025-08-02 21:42:28] Processing turn.
+[2025-08-02 21:42:33] User input: use potion
+[2025-08-02 21:42:34] Updating world state.
+[2025-08-02 21:42:34] Processing turn.
+[2025-08-02 21:42:40] User input: use potion
+[2025-08-02 21:42:41] Updating world state.
+[2025-08-02 21:42:41] Processing turn.
+[2025-08-02 22:33:02] Initializing Game Engine.
+[2025-08-02 22:33:02] Game Started.
+[2025-08-02 22:33:02] Game loop started.
+[2025-08-02 22:33:07] Generating basic room.
+[2025-08-02 22:33:12] User input: inventory
+[2025-08-02 22:33:14] Updating world state.
+[2025-08-02 22:33:14] Processing turn.
+[2025-08-02 22:33:19] User input: d
+[2025-08-02 22:33:19] Player moved right (D)
+[2025-08-02 22:33:19] Updating world state.
+[2025-08-02 22:33:19] Processing turn.
+[2025-08-02 22:33:20] User input: w
+[2025-08-02 22:33:20] Player moved up (W)
+[2025-08-02 22:33:20] Updating world state.
+[2025-08-02 22:33:20] Processing turn.
+[2025-08-02 22:33:21] User input: a
+[2025-08-02 22:33:21] Player moved left (A)
+[2025-08-02 22:33:21] Updating world state.
+[2025-08-02 22:33:21] Processing turn.
+[2025-08-02 22:33:22] User input: s
+[2025-08-02 22:33:22] Player moved down (S)
+[2025-08-02 22:33:22] Updating world state.
+[2025-08-02 22:33:22] Processing turn.
+[2025-08-02 22:33:22] User input: d
+[2025-08-02 22:33:22] Player moved right (D)
+[2025-08-02 22:33:22] Updating world state.
+[2025-08-02 22:33:22] Processing turn.
+[2025-08-02 22:33:23] User input: s
+[2025-08-02 22:33:23] Player moved down (S)
+[2025-08-02 22:33:23] Updating world state.
+[2025-08-02 22:33:23] Processing turn.
+[2025-08-02 22:33:23] User input: 
+[2025-08-02 22:33:23] Updating world state.
+[2025-08-02 22:33:23] Processing turn.
+[2025-08-02 22:33:24] User input: a
+[2025-08-02 22:33:24] Player moved left (A)
+[2025-08-02 22:33:24] Updating world state.
+[2025-08-02 22:33:24] Processing turn.
+[2025-08-02 22:33:25] User input: w
+[2025-08-02 22:33:25] Player moved up (W)
+[2025-08-02 22:33:25] Updating world state.
+[2025-08-02 22:33:25] Processing turn.
+[2025-08-02 22:33:26] User input: ww
+[2025-08-02 22:33:26] Updating world state.
+[2025-08-02 22:33:26] Processing turn.
+[2025-08-02 22:33:27] User input: w
+[2025-08-02 22:33:27] Player moved up (W)
+[2025-08-02 22:33:27] Updating world state.
+[2025-08-02 22:33:27] Processing turn.
+[2025-08-02 22:33:28] User input: d
+[2025-08-02 22:33:28] Player moved right (D)
+[2025-08-02 22:33:28] Updating world state.
+[2025-08-02 22:33:28] Processing turn.
+[2025-08-02 22:33:29] User input: s
+[2025-08-02 22:33:29] Player moved down (S)
+[2025-08-02 22:33:29] Updating world state.
+[2025-08-02 22:33:29] Processing turn.
+[2025-08-02 22:33:29] User input: a
+[2025-08-02 22:33:29] Player moved left (A)
+[2025-08-02 22:33:29] Updating world state.
+[2025-08-02 22:33:29] Processing turn.
+[2025-08-02 22:33:30] User input: w
+[2025-08-02 22:33:30] Player moved up (W)
+[2025-08-02 22:33:30] Updating world state.
+[2025-08-02 22:33:30] Processing turn.
+[2025-08-02 22:33:33] User input: inventory
+[2025-08-02 22:33:35] Updating world state.
+[2025-08-02 22:33:35] Processing turn.
+[2025-08-02 22:33:36] User input: q
+[2025-08-02 22:33:36] Updating world state.
+[2025-08-02 22:33:36] Processing turn.
+[2025-08-02 22:33:36] Shutting down Game Engine.
+[2025-08-02 22:33:39] Initializing Game Engine.
+[2025-08-02 22:33:39] Game Started.
+[2025-08-02 22:33:39] Game loop started.
+[2025-08-02 22:33:45] Generating basic room.
+[2025-08-02 22:33:48] User input: d
+[2025-08-02 22:33:48] Player moved right (D)
+[2025-08-02 22:33:48] Updating world state.
+[2025-08-02 22:33:48] Processing turn.
+[2025-08-02 22:33:49] User input: w
+[2025-08-02 22:33:49] Player moved up (W)
+[2025-08-02 22:33:49] Updating world state.
+[2025-08-02 22:33:49] Processing turn.
+[2025-08-02 22:33:50] User input: wa
+[2025-08-02 22:33:50] Updating world state.
+[2025-08-02 22:33:50] Processing turn.
+[2025-08-02 22:33:50] User input: s
+[2025-08-02 22:33:50] Player moved down (S)
+[2025-08-02 22:33:50] Updating world state.
+[2025-08-02 22:33:50] Processing turn.
+[2025-08-02 22:33:51] User input: s
+[2025-08-02 22:33:51] Player moved down (S)
+[2025-08-02 22:33:51] Updating world state.
+[2025-08-02 22:33:51] Processing turn.
+[2025-08-02 22:33:51] User input: sa
+[2025-08-02 22:33:51] Updating world state.
+[2025-08-02 22:33:51] Processing turn.
+[2025-08-02 22:33:52] User input: a
+[2025-08-02 22:33:52] Player moved left (A)
+[2025-08-02 22:33:52] Updating world state.
+[2025-08-02 22:33:52] Processing turn.
+[2025-08-02 22:33:52] User input: 
+[2025-08-02 22:33:52] Updating world state.
+[2025-08-02 22:33:52] Processing turn.
+[2025-08-02 22:33:52] User input: w
+[2025-08-02 22:33:52] Player moved up (W)
+[2025-08-02 22:33:52] Updating world state.
+[2025-08-02 22:33:52] Processing turn.
+[2025-08-02 22:33:53] User input: wd
+[2025-08-02 22:33:53] Updating world state.
+[2025-08-02 22:33:53] Processing turn.
+[2025-08-02 22:33:54] User input: w
+[2025-08-02 22:33:54] Player moved up (W)
+[2025-08-02 22:33:54] Updating world state.
+[2025-08-02 22:33:54] Processing turn.
+[2025-08-02 22:33:54] User input: d
+[2025-08-02 22:33:54] Player moved right (D)
+[2025-08-02 22:33:54] Updating world state.
+[2025-08-02 22:33:54] Processing turn.
+[2025-08-02 22:33:55] User input: d
+[2025-08-02 22:33:55] Player moved right (D)
+[2025-08-02 22:33:55] Updating world state.
+[2025-08-02 22:33:55] Processing turn.
+[2025-08-02 22:33:55] User input: d
+[2025-08-02 22:33:55] Player moved right (D)
+[2025-08-02 22:33:55] Updating world state.
+[2025-08-02 22:33:55] Processing turn.
+[2025-08-02 22:33:56] User input: s
+[2025-08-02 22:33:56] Player moved down (S)
+[2025-08-02 22:33:56] Updating world state.
+[2025-08-02 22:33:56] Processing turn.
+[2025-08-02 22:33:56] User input: s
+[2025-08-02 22:33:56] Player moved down (S)
+[2025-08-02 22:33:56] Updating world state.
+[2025-08-02 22:33:56] Processing turn.
+[2025-08-02 22:33:57] User input: a
+[2025-08-02 22:33:57] Player moved left (A)
+[2025-08-02 22:33:57] Updating world state.
+[2025-08-02 22:33:57] Processing turn.
+[2025-08-02 22:33:58] User input: aw
+[2025-08-02 22:33:58] Updating world state.
+[2025-08-02 22:33:58] Processing turn.
+[2025-08-02 22:33:58] User input: w
+[2025-08-02 22:33:58] Player moved up (W)
+[2025-08-02 22:33:58] Updating world state.
+[2025-08-02 22:33:58] Processing turn.
+[2025-08-02 22:33:59] User input: w
+[2025-08-02 22:33:59] Player moved up (W)
+[2025-08-02 22:33:59] Updating world state.
+[2025-08-02 22:33:59] Processing turn.
+[2025-08-02 22:38:47] User input: q
+[2025-08-02 22:38:47] Updating world state.
+[2025-08-02 22:38:47] Processing turn.
+[2025-08-02 22:38:47] Shutting down Game Engine.
+[2025-08-02 23:06:55] Initializing Game Engine.
+[2025-08-02 23:06:55] Game Started.
+[2025-08-02 23:06:55] Game loop started.
+[2025-08-02 23:07:01] Generating basic room.
+[2025-08-02 23:07:03] User input: a
+[2025-08-02 23:07:03] Player moved left (A)
+[2025-08-02 23:07:03] Updating world state.
+[2025-08-02 23:07:03] Processing turn.
+[2025-08-02 23:07:04] User input: s
+[2025-08-02 23:07:04] Player moved down (S)
+[2025-08-02 23:07:04] Updating world state.
+[2025-08-02 23:07:04] Processing turn.
+[2025-08-02 23:07:06] User input: d
+[2025-08-02 23:07:06] Player moved right (D)
+[2025-08-02 23:07:06] Updating world state.
+[2025-08-02 23:07:06] Processing turn.
+[2025-08-02 23:07:07] User input: D
+[2025-08-02 23:07:07] Player moved right (D)
+[2025-08-02 23:07:07] Updating world state.
+[2025-08-02 23:07:07] Processing turn.
+[2025-08-02 23:07:07] User input: D
+[2025-08-02 23:07:07] Player moved right (D)
+[2025-08-02 23:07:07] Updating world state.
+[2025-08-02 23:07:07] Processing turn.
+[2025-08-02 23:07:08] User input: D
+[2025-08-02 23:07:08] Player moved right (D)
+[2025-08-02 23:07:08] Updating world state.
+[2025-08-02 23:07:08] Processing turn.
+[2025-08-02 23:07:08] User input: D
+[2025-08-02 23:07:08] Player moved right (D)
+[2025-08-02 23:07:08] Updating world state.
+[2025-08-02 23:07:08] Processing turn.
+[2025-08-02 23:07:09] User input: D
+[2025-08-02 23:07:09] Player moved right (D)
+[2025-08-02 23:07:09] Updating world state.
+[2025-08-02 23:07:09] Processing turn.
+[2025-08-02 23:07:10] User input: D
+[2025-08-02 23:07:10] Player moved right (D)
+[2025-08-02 23:07:10] Updating world state.
+[2025-08-02 23:07:10] Processing turn.
+[2025-08-02 23:07:11] User input: W
+[2025-08-02 23:07:11] Player moved up (W)
+[2025-08-02 23:07:11] Updating world state.
+[2025-08-02 23:07:11] Processing turn.
+[2025-08-02 23:07:11] User input: W
+[2025-08-02 23:07:11] Player moved up (W)
+[2025-08-02 23:07:11] Updating world state.
+[2025-08-02 23:07:11] Processing turn.
+[2025-08-02 23:07:13] User input: A
+[2025-08-02 23:07:13] Player moved left (A)
+[2025-08-02 23:07:13] Updating world state.
+[2025-08-02 23:07:13] Processing turn.
+[2025-08-02 23:07:14] User input: A
+[2025-08-02 23:07:14] Player moved left (A)
+[2025-08-02 23:07:14] Updating world state.
+[2025-08-02 23:07:14] Processing turn.
+[2025-08-02 23:07:14] User input: A
+[2025-08-02 23:07:14] Player moved left (A)
+[2025-08-02 23:07:14] Updating world state.
+[2025-08-02 23:07:14] Processing turn.
+[2025-08-02 23:07:14] User input: A
+[2025-08-02 23:07:14] Player moved left (A)
+[2025-08-02 23:07:14] Updating world state.
+[2025-08-02 23:07:14] Processing turn.
+[2025-08-02 23:07:15] User input: A
+[2025-08-02 23:07:15] Player moved left (A)
+[2025-08-02 23:07:15] Updating world state.
+[2025-08-02 23:07:15] Processing turn.
+[2025-08-03 20:47:50] User input: q
+[2025-08-03 20:47:50] Updating world state.
+[2025-08-03 20:47:50] Processing turn.
+[2025-08-03 20:47:50] Shutting down Game Engine.
+[2025-08-05 00:09:59] Initializing Game Engine.
+[2025-08-05 00:09:59] Game Started.
+[2025-08-05 00:09:59] Game loop started.
+[2025-08-05 00:10:04] Generating basic room.
+[2025-08-05 00:10:12] User input: q
+[2025-08-05 00:10:12] Updating world state.
+[2025-08-05 00:10:12] Processing turn.
+[2025-08-05 00:10:12] Shutting down Game Engine.
+[2025-09-05 01:19:53] Initializing Game Engine.
+[2025-09-05 01:19:53] Game Started.
+[2025-09-05 01:19:53] Game loop started.
+[2025-09-05 01:19:58] Generating basic room.
+[2025-09-05 01:20:02] User input: d
+[2025-09-05 01:20:02] Player moved right (D)
+[2025-09-05 01:20:02] Updating world state.
+[2025-09-05 01:20:02] Processing turn.
+[2025-09-05 01:20:03] User input: w
+[2025-09-05 01:20:03] Player moved up (W)
+[2025-09-05 01:20:03] Updating world state.
+[2025-09-05 01:20:03] Processing turn.
+[2025-09-05 01:20:04] User input: s
+[2025-09-05 01:20:04] Player moved down (S)
+[2025-09-05 01:20:04] Updating world state.
+[2025-09-05 01:20:04] Processing turn.
+[2025-09-05 01:20:05] User input: s
+[2025-09-05 01:20:05] Player moved down (S)
+[2025-09-05 01:20:05] Updating world state.
+[2025-09-05 01:20:05] Processing turn.
+[2025-09-05 01:20:06] User input: d
+[2025-09-05 01:20:06] Player moved right (D)
+[2025-09-05 01:20:06] Updating world state.
+[2025-09-05 01:20:06] Processing turn.
+[2025-09-05 01:20:06] User input: a
+[2025-09-05 01:20:06] Player moved left (A)
+[2025-09-05 01:20:06] Updating world state.
+[2025-09-05 01:20:06] Processing turn.
+[2025-09-05 01:20:07] User input: aw
+[2025-09-05 01:20:07] Updating world state.
+[2025-09-05 01:20:07] Processing turn.
+[2025-09-05 01:20:08] User input: w
+[2025-09-05 01:20:08] Player moved up (W)
+[2025-09-05 01:20:08] Updating world state.
+[2025-09-05 01:20:08] Processing turn.
+[2025-09-05 01:20:08] User input: w
+[2025-09-05 01:20:08] Player moved up (W)
+[2025-09-05 01:20:08] Updating world state.
+[2025-09-05 01:20:08] Processing turn.
+[2025-09-05 01:20:11] User input: w
+[2025-09-05 01:20:11] Updating world state.
+[2025-09-05 01:20:11] Processing turn.
+[2025-09-05 01:20:12] User input: 
+[2025-09-05 01:20:12] Updating world state.
+[2025-09-05 01:20:12] Processing turn.
+[2025-09-05 01:20:14] User input: q
+[2025-09-05 01:20:14] Updating world state.
+[2025-09-05 01:20:14] Processing turn.
+[2025-09-05 01:20:14] Shutting down Game Engine.
+[2025-09-05 01:30:01] Initializing Game Engine.
+[2025-09-05 01:30:01] Game Started.
+[2025-09-05 01:30:01] Game loop started.
+[2025-09-05 01:30:06] Generating basic room.
+[2025-09-05 01:30:10] User input: d
+[2025-09-05 01:30:10] Player moved right (D)
+[2025-09-05 01:30:10] Updating world state.
+[2025-09-05 01:30:10] Processing turn.
+[2025-09-05 01:30:11] User input: w
+[2025-09-05 01:30:11] Player moved up (W)
+[2025-09-05 01:30:11] Updating world state.
+[2025-09-05 01:30:11] Processing turn.
+[2025-09-05 01:30:12] User input: s
+[2025-09-05 01:30:12] Player moved down (S)
+[2025-09-05 01:30:12] Updating world state.
+[2025-09-05 01:30:12] Processing turn.
+[2025-09-05 01:30:12] User input: d
+[2025-09-05 01:30:12] Player moved right (D)
+[2025-09-05 01:30:12] Updating world state.
+[2025-09-05 01:30:12] Processing turn.
+[2025-09-05 01:30:13] User input: d
+[2025-09-05 01:30:13] Player moved right (D)
+[2025-09-05 01:30:13] Updating world state.
+[2025-09-05 01:30:13] Processing turn.
+[2025-09-05 01:30:13] User input: d
+[2025-09-05 01:30:13] Player moved right (D)
+[2025-09-05 01:30:13] Updating world state.
+[2025-09-05 01:30:13] Processing turn.
+[2025-09-05 01:30:14] User input: d
+[2025-09-05 01:30:14] Player moved right (D)
+[2025-09-05 01:30:14] Updating world state.
+[2025-09-05 01:30:14] Processing turn.
+[2025-09-05 01:30:14] User input: d
+[2025-09-05 01:30:14] Player moved right (D)
+[2025-09-05 01:30:14] Updating world state.
+[2025-09-05 01:30:14] Processing turn.
+[2025-09-05 01:30:14] User input: d
+[2025-09-05 01:30:14] Player moved right (D)
+[2025-09-05 01:30:14] Updating world state.
+[2025-09-05 01:30:14] Processing turn.
+[2025-09-05 01:30:14] User input: dd
+[2025-09-05 01:30:14] Updating world state.
+[2025-09-05 01:30:14] Processing turn.
+[2025-09-05 01:30:15] User input: d
+[2025-09-05 01:30:15] Player moved right (D)
+[2025-09-05 01:30:15] Updating world state.
+[2025-09-05 01:30:15] Processing turn.
+[2025-09-05 01:30:15] User input: s
+[2025-09-05 01:30:15] Player moved down (S)
+[2025-09-05 01:30:15] Updating world state.
+[2025-09-05 01:30:15] Processing turn.
+[2025-09-05 01:30:15] User input: s
+[2025-09-05 01:30:15] Player moved down (S)
+[2025-09-05 01:30:15] Updating world state.
+[2025-09-05 01:30:15] Processing turn.
+[2025-09-05 01:30:15] User input: s
+[2025-09-05 01:30:15] Player moved down (S)
+[2025-09-05 01:30:15] Updating world state.
+[2025-09-05 01:30:15] Processing turn.
+[2025-09-05 01:30:16] User input: s
+[2025-09-05 01:30:16] Player moved down (S)
+[2025-09-05 01:30:16] Updating world state.
+[2025-09-05 01:30:16] Processing turn.
+[2025-09-05 01:30:16] User input: s
+[2025-09-05 01:30:16] Player moved down (S)
+[2025-09-05 01:30:16] Updating world state.
+[2025-09-05 01:30:16] Processing turn.
+[2025-09-05 01:30:16] User input: s
+[2025-09-05 01:30:16] Player moved down (S)
+[2025-09-05 01:30:16] Updating world state.
+[2025-09-05 01:30:16] Processing turn.
+[2025-09-05 01:30:16] User input: d
+[2025-09-05 01:30:16] Player moved right (D)
+[2025-09-05 01:30:16] Updating world state.
+[2025-09-05 01:30:16] Processing turn.
+[2025-09-05 01:30:16] User input: d
+[2025-09-05 01:30:16] Player moved right (D)
+[2025-09-05 01:30:16] Updating world state.
+[2025-09-05 01:30:16] Processing turn.
+[2025-09-05 01:30:17] User input: d
+[2025-09-05 01:30:17] Player moved right (D)
+[2025-09-05 01:30:17] Updating world state.
+[2025-09-05 01:30:17] Processing turn.
+[2025-09-05 01:30:17] User input: d
+[2025-09-05 01:30:17] Player moved right (D)
+[2025-09-05 01:30:17] Updating world state.
+[2025-09-05 01:30:17] Processing turn.
+[2025-09-05 01:30:17] User input: dds
+[2025-09-05 01:30:17] Updating world state.
+[2025-09-05 01:30:17] Processing turn.
+[2025-09-05 01:30:18] User input: s
+[2025-09-05 01:30:18] Player moved down (S)
+[2025-09-05 01:30:18] Updating world state.
+[2025-09-05 01:30:18] Processing turn.
+[2025-09-05 01:30:18] User input: s
+[2025-09-05 01:30:18] Player moved down (S)
+[2025-09-05 01:30:18] Updating world state.
+[2025-09-05 01:30:18] Processing turn.
+[2025-09-05 01:30:18] User input: s
+[2025-09-05 01:30:18] Player moved down (S)
+[2025-09-05 01:30:18] Updating world state.
+[2025-09-05 01:30:18] Processing turn.
+[2025-09-05 01:30:18] User input: sd
+[2025-09-05 01:30:18] Updating world state.
+[2025-09-05 01:30:18] Processing turn.
+[2025-09-05 01:30:19] User input: d
+[2025-09-05 01:30:19] Player moved right (D)
+[2025-09-05 01:30:19] Updating world state.
+[2025-09-05 01:30:19] Processing turn.
+[2025-09-05 01:30:19] User input: d
+[2025-09-05 01:30:19] Player moved right (D)
+[2025-09-05 01:30:19] Updating world state.
+[2025-09-05 01:30:19] Processing turn.
+[2025-09-05 01:30:19] User input: d
+[2025-09-05 01:30:19] Player moved right (D)
+[2025-09-05 01:30:19] Updating world state.
+[2025-09-05 01:30:19] Processing turn.
+[2025-09-05 01:30:19] User input: ds
+[2025-09-05 01:30:19] Updating world state.
+[2025-09-05 01:30:19] Processing turn.
+[2025-09-05 01:30:20] User input: s
+[2025-09-05 01:30:20] Player moved down (S)
+[2025-09-05 01:30:20] Updating world state.
+[2025-09-05 01:30:20] Processing turn.
+[2025-09-05 01:30:20] User input: s
+[2025-09-05 01:30:20] Player moved down (S)
+[2025-09-05 01:30:20] Updating world state.
+[2025-09-05 01:30:20] Processing turn.
+[2025-09-05 01:30:20] User input: w
+[2025-09-05 01:30:20] Player moved up (W)
+[2025-09-05 01:30:20] Updating world state.
+[2025-09-05 01:30:20] Processing turn.
+[2025-09-05 01:30:20] User input: w
+[2025-09-05 01:30:20] Player moved up (W)
+[2025-09-05 01:30:20] Updating world state.
+[2025-09-05 01:30:20] Processing turn.
+[2025-09-05 01:30:20] User input: w
+[2025-09-05 01:30:20] Player moved up (W)
+[2025-09-05 01:30:20] Updating world state.
+[2025-09-05 01:30:20] Processing turn.
+[2025-09-05 01:30:21] User input: w
+[2025-09-05 01:30:21] Player moved up (W)
+[2025-09-05 01:30:21] Updating world state.
+[2025-09-05 01:30:21] Processing turn.
+[2025-09-05 01:30:21] User input: w
+[2025-09-05 01:30:21] Player moved up (W)
+[2025-09-05 01:30:21] Updating world state.
+[2025-09-05 01:30:21] Processing turn.
+[2025-09-05 01:30:21] User input: w
+[2025-09-05 01:30:21] Player moved up (W)
+[2025-09-05 01:30:21] Updating world state.
+[2025-09-05 01:30:21] Processing turn.
+[2025-09-05 01:30:21] User input: w
+[2025-09-05 01:30:21] Player moved up (W)
+[2025-09-05 01:30:21] Updating world state.
+[2025-09-05 01:30:21] Processing turn.
+[2025-09-05 01:30:22] User input: w
+[2025-09-05 01:30:22] Player moved up (W)
+[2025-09-05 01:30:22] Updating world state.
+[2025-09-05 01:30:22] Processing turn.
+[2025-09-05 01:30:22] User input: w
+[2025-09-05 01:30:22] Player moved up (W)
+[2025-09-05 01:30:22] Updating world state.
+[2025-09-05 01:30:22] Processing turn.
+[2025-09-05 01:30:22] User input: a
+[2025-09-05 01:30:22] Player moved left (A)
+[2025-09-05 01:30:22] Updating world state.
+[2025-09-05 01:30:22] Processing turn.
+[2025-09-05 01:30:22] User input: a
+[2025-09-05 01:30:22] Player moved left (A)
+[2025-09-05 01:30:22] Updating world state.
+[2025-09-05 01:30:22] Processing turn.
+[2025-09-05 01:30:23] User input: a
+[2025-09-05 01:30:23] Player moved left (A)
+[2025-09-05 01:30:23] Updating world state.
+[2025-09-05 01:30:23] Processing turn.
+[2025-09-05 01:30:23] User input: a
+[2025-09-05 01:30:23] Player moved left (A)
+[2025-09-05 01:30:23] Updating world state.
+[2025-09-05 01:30:23] Processing turn.
+[2025-09-05 01:30:23] User input: a
+[2025-09-05 01:30:23] Player moved left (A)
+[2025-09-05 01:30:23] Updating world state.
+[2025-09-05 01:30:23] Processing turn.
+[2025-09-05 01:30:23] User input: a
+[2025-09-05 01:30:23] Player moved left (A)
+[2025-09-05 01:30:23] Updating world state.
+[2025-09-05 01:30:23] Processing turn.
+[2025-09-05 01:30:23] User input: a
+[2025-09-05 01:30:23] Player moved left (A)
+[2025-09-05 01:30:23] Updating world state.
+[2025-09-05 01:30:23] Processing turn.
+[2025-09-05 01:30:24] User input: a
+[2025-09-05 01:30:24] Player moved left (A)
+[2025-09-05 01:30:24] Updating world state.
+[2025-09-05 01:30:24] Processing turn.
+[2025-09-05 01:30:24] User input: a
+[2025-09-05 01:30:24] Player moved left (A)
+[2025-09-05 01:30:24] Updating world state.
+[2025-09-05 01:30:24] Processing turn.
+[2025-09-05 01:30:24] User input: a
+[2025-09-05 01:30:24] Player moved left (A)
+[2025-09-05 01:30:24] Updating world state.
+[2025-09-05 01:30:24] Processing turn.
+[2025-09-05 01:30:24] User input: a
+[2025-09-05 01:30:24] Player moved left (A)
+[2025-09-05 01:30:24] Updating world state.
+[2025-09-05 01:30:24] Processing turn.
+[2025-09-05 01:30:25] User input: aa
+[2025-09-05 01:30:25] Updating world state.
+[2025-09-05 01:30:25] Processing turn.
+[2025-09-05 01:30:25] User input: a
+[2025-09-05 01:30:25] Player moved left (A)
+[2025-09-05 01:30:25] Updating world state.
+[2025-09-05 01:30:25] Processing turn.
+[2025-09-05 01:30:25] User input: a
+[2025-09-05 01:30:25] Player moved left (A)
+[2025-09-05 01:30:25] Updating world state.
+[2025-09-05 01:30:25] Processing turn.
+[2025-09-05 01:30:25] User input: a
+[2025-09-05 01:30:25] Player moved left (A)
+[2025-09-05 01:30:25] Updating world state.
+[2025-09-05 01:30:25] Processing turn.
+[2025-09-05 01:30:25] User input: a
+[2025-09-05 01:30:25] Player moved left (A)
+[2025-09-05 01:30:25] Updating world state.
+[2025-09-05 01:30:25] Processing turn.
+[2025-09-05 01:30:26] User input: a
+[2025-09-05 01:30:26] Player moved left (A)
+[2025-09-05 01:30:26] Updating world state.
+[2025-09-05 01:30:26] Processing turn.
+[2025-09-05 01:30:26] User input: as
+[2025-09-05 01:30:26] Updating world state.
+[2025-09-05 01:30:26] Processing turn.
+[2025-09-05 01:30:26] User input: s
+[2025-09-05 01:30:26] Player moved down (S)
+[2025-09-05 01:30:26] Updating world state.
+[2025-09-05 01:30:26] Processing turn.
+[2025-09-05 01:30:27] User input: s
+[2025-09-05 01:30:27] Player moved down (S)
+[2025-09-05 01:30:27] Updating world state.
+[2025-09-05 01:30:27] Processing turn.
+[2025-09-05 01:30:27] User input: s
+[2025-09-05 01:30:27] Player moved down (S)
+[2025-09-05 01:30:27] Updating world state.
+[2025-09-05 01:30:27] Processing turn.
+[2025-09-05 01:30:27] User input: s
+[2025-09-05 01:30:27] Player moved down (S)
+[2025-09-05 01:30:27] Updating world state.
+[2025-09-05 01:30:27] Processing turn.
+[2025-09-05 01:30:27] User input: s
+[2025-09-05 01:30:27] Player moved down (S)
+[2025-09-05 01:30:27] Updating world state.
+[2025-09-05 01:30:27] Processing turn.
+[2025-09-05 01:30:28] User input: s
+[2025-09-05 01:30:28] Player moved down (S)
+[2025-09-05 01:30:28] Updating world state.
+[2025-09-05 01:30:28] Processing turn.
+[2025-09-05 01:30:28] User input: ss
+[2025-09-05 01:30:28] Updating world state.
+[2025-09-05 01:30:28] Processing turn.
+[2025-09-05 01:30:28] User input: s
+[2025-09-05 01:30:28] Player moved down (S)
+[2025-09-05 01:30:28] Updating world state.
+[2025-09-05 01:30:28] Processing turn.
+[2025-09-05 01:30:28] User input: d
+[2025-09-05 01:30:28] Player moved right (D)
+[2025-09-05 01:30:28] Updating world state.
+[2025-09-05 01:30:28] Processing turn.
+[2025-09-05 01:30:29] User input: d
+[2025-09-05 01:30:29] Player moved right (D)
+[2025-09-05 01:30:29] Updating world state.
+[2025-09-05 01:30:29] Processing turn.
+[2025-09-05 01:30:29] User input: d
+[2025-09-05 01:30:29] Player moved right (D)
+[2025-09-05 01:30:29] Updating world state.
+[2025-09-05 01:30:29] Processing turn.
+[2025-09-05 01:30:29] User input: d
+[2025-09-05 01:30:29] Player moved right (D)
+[2025-09-05 01:30:29] Updating world state.
+[2025-09-05 01:30:29] Processing turn.
+[2025-09-05 01:30:29] User input: dd
+[2025-09-05 01:30:29] Updating world state.
+[2025-09-05 01:30:29] Processing turn.
+[2025-09-05 01:30:30] User input: d
+[2025-09-05 01:30:30] Player moved right (D)
+[2025-09-05 01:30:30] Updating world state.
+[2025-09-05 01:30:30] Processing turn.
+[2025-09-05 01:30:30] User input: d
+[2025-09-05 01:30:30] Player moved right (D)
+[2025-09-05 01:30:30] Updating world state.
+[2025-09-05 01:30:30] Processing turn.
+[2025-09-05 01:30:30] User input: dd
+[2025-09-05 01:30:30] Updating world state.
+[2025-09-05 01:30:30] Processing turn.
+[2025-09-05 01:30:38] User input: q
+[2025-09-05 01:30:38] Updating world state.
+[2025-09-05 01:30:38] Processing turn.
+[2025-09-05 01:30:38] Shutting down Game Engine.

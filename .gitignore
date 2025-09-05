@@ -1,0 +1,5 @@
+# CMake build directories
+cmake-build-*/
+
+#Text files
+token_for_github.txt
