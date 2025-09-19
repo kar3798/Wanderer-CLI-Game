@@ -9,7 +9,7 @@ class Sword : public Item {
 public:
     Sword () : Item("Sword", '/') { }
 
-    void use (Player& player) override;
+    std::string use (Player& player) override;
 };
 
 

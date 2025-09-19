@@ -8,7 +8,7 @@ class Key : public Item {
 public:
     Key() : Item("Key", 'k') { }
 
-    void use (Player& player) override;
+    std::string use (Player& player) override;
 };
 
 

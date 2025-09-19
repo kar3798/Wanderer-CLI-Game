@@ -1,6 +1,6 @@
 #include "Potion.h"
 
-void Potion::use(Player& player) {
-    std::cout << "You used a potion and recovered 20 HP!\n";
+std::string Potion::use(Player& player) {
     player.heal(20);
+    return "You used a potion and recovered 20 HP!";
 }

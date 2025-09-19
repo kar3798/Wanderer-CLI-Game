@@ -8,7 +8,7 @@ class Potion : public Item {
 public:
     Potion () : Item("Potion", '!') {}
 
-    void use (Player& player) override;
+    std::string use (Player& player) override;
 };
 
 #endif //POTION_H

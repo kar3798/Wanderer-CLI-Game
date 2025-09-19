@@ -11,7 +11,7 @@ public:
     Item(std::string name, char symbol) : name(std::move(name)), symbol(symbol) {}
     virtual ~Item() = default;
 
-    virtual void use(Player& player) = 0;
+    virtual std::string use(Player& player) = 0;
     std::string getName() const { return name; }
     char getSymbol() const { return symbol; }
 

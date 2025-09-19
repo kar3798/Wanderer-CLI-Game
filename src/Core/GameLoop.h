@@ -8,6 +8,8 @@
 #include "../Entities/Enemy.h"
 #include <memory>
 #include <vector>
+#include <unordered_map>
+#include <functional>
 
 class GameLoop {
 public:
@@ -17,9 +19,13 @@ private:
     void printTitleArt();
     void printLoadingBar();
     void render();
-    void handleInput();
+    void addMessage(const std::string& msg);
+    void movePlayer(int dx, int dy, const std::string& direction);
+    int handleInput();
     void updateWorld();
     void processTurn();
+    void renderInventory();
+    void handleInventoryInput();
 
     bool isRunning = true;
 
@@ -27,6 +33,21 @@ private:
 
     std::vector<std::unique_ptr<Entity>> entities;
     Player* player = nullptr;
+
+    struct Command {
+        std::function<void()> action;
+        int turnCost;
+    };
+
+    std::unordered_map<std::string, Command> commands;
+    std::vector<std::string> messageLog;
+
+    enum class GameState {
+        Playing,
+        Inventory
+    };
+
+    GameState state = GameState::Playing;
 
 };
 

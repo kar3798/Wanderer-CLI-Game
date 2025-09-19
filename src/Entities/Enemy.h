@@ -6,11 +6,9 @@
 
 class Enemy : public Entity{
 public:
-    Enemy(int x, int y) : Entity(x, y, 'E', 50) {}
+    Enemy(int x, int y);
 
-    void update() override {
-        // Implement later
-    }
+    void update() override;
 };
 
 #endif //ENEMY_H
