@@ -1,12 +1,13 @@
 #include "GameEngine.h"
-#include <iostream>
-#include "../Utils/Logger.h"
+#include <cstdlib>
+#include <ctime>
 
 
 void GameEngine::init() {
     Logger::init("game.log");
     Logger::log("Initializing Game Engine.");
     std::cout << "Initializing Game Engine...\n";
+    srand(static_cast<unsigned>(time(nullptr))); // seed for random number generator
     gameLoop = std::make_unique<GameLoop>();
 }
 

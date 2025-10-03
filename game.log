@@ -2874,3 +2874,1038 @@ Shutting down Game Engine.
 [2025-09-19 00:03:18] Processing turn.
 [2025-09-19 00:03:20] User input: q
 [2025-09-19 00:03:20] Shutting down Game Engine.
+[2025-09-19 00:08:39] Initializing Game Engine.
+[2025-09-19 00:08:39] Game Started.
+[2025-09-19 00:08:39] Game loop started.
+[2025-09-19 00:08:39] Generating basic room.
+[2025-09-19 00:08:39] Player picked up: Potion
+[2025-09-19 00:08:39] Player picked up: Sword
+[2025-09-19 00:08:39] Player picked up: Key
+[2025-09-19 00:08:43] User input: d
+[2025-09-19 00:08:43] Player moved right (D)
+[2025-09-19 00:08:43] Updating world state.
+[2025-09-19 00:08:43] Processing turn.
+[2025-09-19 00:08:45] User input: s
+[2025-09-19 00:08:45] Player moved down (S)
+[2025-09-19 00:08:45] Updating world state.
+[2025-09-19 00:08:45] Processing turn.
+[2025-09-19 00:08:45] User input: w
+[2025-09-19 00:08:45] Player moved up (W)
+[2025-09-19 00:08:45] Updating world state.
+[2025-09-19 00:08:45] Processing turn.
+[2025-09-19 00:08:46] User input: w
+[2025-09-19 00:08:46] Player moved up (W)
+[2025-09-19 00:08:46] Updating world state.
+[2025-09-19 00:08:46] Processing turn.
+[2025-09-19 00:08:46] User input: a
+[2025-09-19 00:08:46] Player moved left (A)
+[2025-09-19 00:08:46] Updating world state.
+[2025-09-19 00:08:46] Processing turn.
+[2025-09-19 00:08:46] User input: s
+[2025-09-19 00:08:46] Player moved down (S)
+[2025-09-19 00:08:46] Updating world state.
+[2025-09-19 00:08:46] Processing turn.
+[2025-09-19 00:08:47] User input: d
+[2025-09-19 00:08:47] Player moved right (D)
+[2025-09-19 00:08:47] Updating world state.
+[2025-09-19 00:08:47] Processing turn.
+[2025-09-19 00:08:47] User input: s
+[2025-09-19 00:08:47] Player moved down (S)
+[2025-09-19 00:08:47] Updating world state.
+[2025-09-19 00:08:47] Processing turn.
+[2025-09-19 00:08:47] User input: s
+[2025-09-19 00:08:47] Updating world state.
+[2025-09-19 00:08:47] Processing turn.
+[2025-09-19 00:08:47] User input: d
+[2025-09-19 00:08:47] Player moved right (D)
+[2025-09-19 00:08:47] Updating world state.
+[2025-09-19 00:08:47] Processing turn.
+[2025-09-19 00:08:48] User input: d
+[2025-09-19 00:08:48] Player moved right (D)
+[2025-09-19 00:08:48] Updating world state.
+[2025-09-19 00:08:48] Processing turn.
+[2025-09-19 00:08:48] User input: d
+[2025-09-19 00:08:48] Player moved right (D)
+[2025-09-19 00:08:48] Updating world state.
+[2025-09-19 00:08:48] Processing turn.
+[2025-09-19 00:08:48] User input: w
+[2025-09-19 00:08:48] Player moved up (W)
+[2025-09-19 00:08:48] Updating world state.
+[2025-09-19 00:08:48] Processing turn.
+[2025-09-19 00:08:49] User input: d
+[2025-09-19 00:08:49] Player moved right (D)
+[2025-09-19 00:08:49] Updating world state.
+[2025-09-19 00:08:49] Processing turn.
+[2025-09-19 00:08:49] User input: w
+[2025-09-19 00:08:49] Player moved up (W)
+[2025-09-19 00:08:49] Updating world state.
+[2025-09-19 00:08:49] Processing turn.
+[2025-09-19 00:08:49] User input: a
+[2025-09-19 00:08:49] Player moved left (A)
+[2025-09-19 00:08:49] Updating world state.
+[2025-09-19 00:08:49] Processing turn.
+[2025-09-19 00:08:49] User input: d
+[2025-09-19 00:08:49] Player moved right (D)
+[2025-09-19 00:08:49] Updating world state.
+[2025-09-19 00:08:49] Processing turn.
+[2025-09-19 00:08:50] User input: a
+[2025-09-19 00:08:50] Player moved left (A)
+[2025-09-19 00:08:50] Updating world state.
+[2025-09-19 00:08:50] Processing turn.
+[2025-09-19 00:08:50] User input: a
+[2025-09-19 00:08:50] Player moved left (A)
+[2025-09-19 00:08:50] Updating world state.
+[2025-09-19 00:08:50] Processing turn.
+[2025-09-19 00:08:50] User input: a
+[2025-09-19 00:08:50] Player moved left (A)
+[2025-09-19 00:08:50] Updating world state.
+[2025-09-19 00:08:50] Processing turn.
+[2025-09-19 00:08:50] User input: s
+[2025-09-19 00:08:50] Player moved down (S)
+[2025-09-19 00:08:50] Updating world state.
+[2025-09-19 00:08:50] Processing turn.
+[2025-09-19 00:08:51] User input: d
+[2025-09-19 00:08:51] Player moved right (D)
+[2025-09-19 00:08:51] Updating world state.
+[2025-09-19 00:08:51] Processing turn.
+[2025-09-19 00:08:51] User input: a
+[2025-09-19 00:08:51] Player moved left (A)
+[2025-09-19 00:08:51] Updating world state.
+[2025-09-19 00:08:51] Processing turn.
+[2025-09-19 00:08:52] User input: a
+[2025-09-19 00:08:52] Player moved left (A)
+[2025-09-19 00:08:52] Updating world state.
+[2025-09-19 00:08:52] Processing turn.
+[2025-09-19 00:08:52] User input: o
+[2025-09-19 00:08:54] User input: i
+[2025-09-19 00:08:56] User input: k
+[2025-09-19 00:08:56] Player used: Key
+[2025-09-19 00:08:56] Updating world state.
+[2025-09-19 00:08:56] Processing turn.
+[2025-09-19 00:08:56] Updating world state.
+[2025-09-19 00:08:56] Processing turn.
+[2025-09-19 00:08:58] User input: S
+[2025-09-19 00:08:58] Player attack increased to 15
+[2025-09-19 00:08:58] Player used: Sword
+[2025-09-19 00:08:58] Updating world state.
+[2025-09-19 00:08:58] Processing turn.
+[2025-09-19 00:08:58] Updating world state.
+[2025-09-19 00:08:58] Processing turn.
+[2025-09-19 00:09:00] User input: S
+[2025-09-19 00:09:00] Player tried to use missing item: Sword
+[2025-09-19 00:09:00] Updating world state.
+[2025-09-19 00:09:00] Processing turn.
+[2025-09-19 00:09:00] Updating world state.
+[2025-09-19 00:09:00] Processing turn.
+[2025-09-19 00:09:01] User input: k
+[2025-09-19 00:09:01] Player tried to use missing item: Key
+[2025-09-19 00:09:01] Updating world state.
+[2025-09-19 00:09:01] Processing turn.
+[2025-09-19 00:09:01] Updating world state.
+[2025-09-19 00:09:01] Processing turn.
+[2025-09-19 00:09:02] User input: p
+[2025-09-19 00:09:02] Player healed to 100 HP
+[2025-09-19 00:09:02] Player used: Potion
+[2025-09-19 00:09:02] Updating world state.
+[2025-09-19 00:09:02] Processing turn.
+[2025-09-19 00:09:02] Updating world state.
+[2025-09-19 00:09:02] Processing turn.
+[2025-09-19 00:09:02] Updating world state.
+[2025-09-19 00:09:02] Processing turn.
+[2025-09-19 00:12:51] User input: ÿ
+[2025-10-02 21:50:31] Initializing Game Engine.
+[2025-10-02 21:50:31] Game Started.
+[2025-10-02 21:50:31] Game loop started.
+[2025-10-02 21:50:31] Generating basic room.
+[2025-10-02 21:50:31] Player picked up: Potion
+[2025-10-02 21:50:31] Player picked up: Sword
+[2025-10-02 21:50:31] Player picked up: Key
+[2025-10-02 21:50:36] User input: d
+[2025-10-02 21:50:36] Player moved right (D)
+[2025-10-02 21:50:36] Updating world state.
+[2025-10-02 21:50:36] Processing turn.
+[2025-10-02 21:50:37] User input: w
+[2025-10-02 21:50:37] Player moved up (W)
+[2025-10-02 21:50:37] Updating world state.
+[2025-10-02 21:50:37] Processing turn.
+[2025-10-02 21:50:38] User input: s
+[2025-10-02 21:50:38] Player moved down (S)
+[2025-10-02 21:50:38] Updating world state.
+[2025-10-02 21:50:38] Processing turn.
+[2025-10-02 21:50:39] User input: a
+[2025-10-02 21:50:39] Player moved left (A)
+[2025-10-02 21:50:39] Updating world state.
+[2025-10-02 21:50:39] Processing turn.
+[2025-10-02 21:50:39] User input: d
+[2025-10-02 21:50:39] Player moved right (D)
+[2025-10-02 21:50:39] Updating world state.
+[2025-10-02 21:50:39] Processing turn.
+[2025-10-02 21:50:40] User input: d
+[2025-10-02 21:50:40] Player moved right (D)
+[2025-10-02 21:50:40] Updating world state.
+[2025-10-02 21:50:40] Processing turn.
+[2025-10-02 21:50:40] User input: w
+[2025-10-02 21:50:40] Player moved up (W)
+[2025-10-02 21:50:40] Updating world state.
+[2025-10-02 21:50:40] Processing turn.
+[2025-10-02 21:50:41] User input: s
+[2025-10-02 21:50:41] Player moved down (S)
+[2025-10-02 21:50:41] Updating world state.
+[2025-10-02 21:50:41] Processing turn.
+[2025-10-02 21:50:43] User input: q
+[2025-10-02 21:50:43] Shutting down Game Engine.
+[2025-10-02 21:50:46] Initializing Game Engine.
+[2025-10-02 21:50:46] Game Started.
+[2025-10-02 21:50:46] Game loop started.
+[2025-10-02 21:50:46] Generating basic room.
+[2025-10-02 21:50:46] Player picked up: Potion
+[2025-10-02 21:50:46] Player picked up: Sword
+[2025-10-02 21:50:46] Player picked up: Key
+[2025-10-02 21:50:49] User input: i
+[2025-10-02 21:50:58] User input: i
+[2025-10-02 21:51:02] User input: k
+[2025-10-02 21:51:02] Player used: Key
+[2025-10-02 21:51:02] Updating world state.
+[2025-10-02 21:51:02] Processing turn.
+[2025-10-02 21:51:02] Updating world state.
+[2025-10-02 21:51:02] Processing turn.
+[2025-10-02 21:51:05] User input: p
+[2025-10-02 21:51:05] Player healed to 100 HP
+[2025-10-02 21:51:05] Player used: Potion
+[2025-10-02 21:51:05] Updating world state.
+[2025-10-02 21:51:05] Processing turn.
+[2025-10-02 21:51:05] Updating world state.
+[2025-10-02 21:51:05] Processing turn.
+[2025-10-02 21:51:05] Updating world state.
+[2025-10-02 21:51:05] Processing turn.
+[2025-10-02 21:51:07] User input: s
+[2025-10-02 21:51:07] Player moved down (S)
+[2025-10-02 21:51:07] Updating world state.
+[2025-10-02 21:51:07] Processing turn.
+[2025-10-02 21:51:09] User input: S
+[2025-10-02 21:51:09] Player attack increased to 15
+[2025-10-02 21:51:09] Player used: Sword
+[2025-10-02 21:51:09] Updating world state.
+[2025-10-02 21:51:09] Processing turn.
+[2025-10-02 21:51:09] Updating world state.
+[2025-10-02 21:51:09] Processing turn.
+[2025-10-02 21:51:10] User input: S
+[2025-10-02 21:51:10] Player tried to use missing item: Sword
+[2025-10-02 21:51:10] Updating world state.
+[2025-10-02 21:51:10] Processing turn.
+[2025-10-02 21:51:10] Updating world state.
+[2025-10-02 21:51:10] Processing turn.
+[2025-10-02 21:51:11] User input: S
+[2025-10-02 21:51:11] Player tried to use missing item: Sword
+[2025-10-02 21:51:11] Updating world state.
+[2025-10-02 21:51:11] Processing turn.
+[2025-10-02 21:51:11] Updating world state.
+[2025-10-02 21:51:11] Processing turn.
+[2025-10-02 21:51:12] User input: P
+[2025-10-02 21:51:15] User input: q
+[2025-10-02 21:51:15] Shutting down Game Engine.
+[2025-10-02 22:47:10] Initializing Game Engine.
+[2025-10-02 22:47:10] Game Started.
+[2025-10-02 22:47:10] Game loop started.
+[2025-10-02 22:47:10] Generating basic room.
+[2025-10-02 22:47:10] Player picked up: Potion
+[2025-10-02 22:47:10] Player picked up: Sword
+[2025-10-02 22:47:10] Player picked up: Key
+[2025-10-02 22:47:12] User input: d
+[2025-10-02 22:47:12] Player moved right (D)
+[2025-10-02 22:47:12] Updating world state.
+[2025-10-02 22:47:12] Processing turn.
+[2025-10-02 22:47:12] Enemy moved.
+[2025-10-02 22:47:13] User input: a
+[2025-10-02 22:47:13] Player moved left (A)
+[2025-10-02 22:47:13] Updating world state.
+[2025-10-02 22:47:13] Processing turn.
+[2025-10-02 22:47:13] Enemy moved.
+[2025-10-02 22:47:14] User input: s
+[2025-10-02 22:47:14] Player moved down (S)
+[2025-10-02 22:47:14] Updating world state.
+[2025-10-02 22:47:14] Processing turn.
+[2025-10-02 22:47:14] Enemy moved.
+[2025-10-02 22:47:14] User input: w
+[2025-10-02 22:47:14] Player moved up (W)
+[2025-10-02 22:47:14] Updating world state.
+[2025-10-02 22:47:14] Processing turn.
+[2025-10-02 22:47:14] Enemy moved.
+[2025-10-02 22:47:15] User input: w
+[2025-10-02 22:47:15] Player moved up (W)
+[2025-10-02 22:47:15] Updating world state.
+[2025-10-02 22:47:15] Processing turn.
+[2025-10-02 22:47:16] User input: d
+[2025-10-02 22:47:16] Player moved right (D)
+[2025-10-02 22:47:16] Updating world state.
+[2025-10-02 22:47:16] Processing turn.
+[2025-10-02 22:47:16] Enemy moved.
+[2025-10-02 22:47:16] User input: s
+[2025-10-02 22:47:16] Player moved down (S)
+[2025-10-02 22:47:16] Updating world state.
+[2025-10-02 22:47:16] Processing turn.
+[2025-10-02 22:47:16] Enemy moved.
+[2025-10-02 22:47:17] User input: a
+[2025-10-02 22:47:17] Player moved left (A)
+[2025-10-02 22:47:17] Updating world state.
+[2025-10-02 22:47:17] Processing turn.
+[2025-10-02 22:47:17] Enemy moved.
+[2025-10-02 22:47:18] User input: s
+[2025-10-02 22:47:18] Player moved down (S)
+[2025-10-02 22:47:18] Updating world state.
+[2025-10-02 22:47:18] Processing turn.
+[2025-10-02 22:47:18] Enemy moved.
+[2025-10-02 22:47:19] User input: d
+[2025-10-02 22:47:19] Player moved right (D)
+[2025-10-02 22:47:19] Updating world state.
+[2025-10-02 22:47:19] Processing turn.
+[2025-10-02 22:47:20] User input: d
+[2025-10-02 22:47:20] Player moved right (D)
+[2025-10-02 22:47:20] Updating world state.
+[2025-10-02 22:47:20] Processing turn.
+[2025-10-02 22:47:20] Enemy moved.
+[2025-10-02 22:47:20] User input: w
+[2025-10-02 22:47:20] Player moved up (W)
+[2025-10-02 22:47:20] Updating world state.
+[2025-10-02 22:47:20] Processing turn.
+[2025-10-02 22:47:20] Enemy moved.
+[2025-10-02 22:47:21] User input: d
+[2025-10-02 22:47:21] Player moved right (D)
+[2025-10-02 22:47:21] Updating world state.
+[2025-10-02 22:47:21] Processing turn.
+[2025-10-02 22:47:21] Enemy moved.
+[2025-10-02 22:47:22] User input: d
+[2025-10-02 22:47:22] Player moved right (D)
+[2025-10-02 22:47:22] Updating world state.
+[2025-10-02 22:47:22] Processing turn.
+[2025-10-02 22:47:22] Enemy moved.
+[2025-10-02 22:47:23] User input: w
+[2025-10-02 22:47:23] Player moved up (W)
+[2025-10-02 22:47:23] Updating world state.
+[2025-10-02 22:47:23] Processing turn.
+[2025-10-02 22:47:23] Enemy moved.
+[2025-10-02 22:47:24] User input: s
+[2025-10-02 22:47:24] Player moved down (S)
+[2025-10-02 22:47:24] Updating world state.
+[2025-10-02 22:47:24] Processing turn.
+[2025-10-02 22:47:24] Enemy moved.
+[2025-10-02 22:47:24] User input: a
+[2025-10-02 22:47:24] Player moved left (A)
+[2025-10-02 22:47:24] Updating world state.
+[2025-10-02 22:47:24] Processing turn.
+[2025-10-02 22:47:24] Enemy moved.
+[2025-10-02 22:47:25] User input: a
+[2025-10-02 22:47:25] Player moved left (A)
+[2025-10-02 22:47:25] Updating world state.
+[2025-10-02 22:47:25] Processing turn.
+[2025-10-02 22:47:25] Enemy moved.
+[2025-10-02 22:47:26] User input: a
+[2025-10-02 22:47:26] Player moved left (A)
+[2025-10-02 22:47:26] Updating world state.
+[2025-10-02 22:47:26] Processing turn.
+[2025-10-02 22:47:26] Enemy moved.
+[2025-10-02 22:47:27] User input: d
+[2025-10-02 22:47:27] Player moved right (D)
+[2025-10-02 22:47:27] Updating world state.
+[2025-10-02 22:47:27] Processing turn.
+[2025-10-02 22:47:27] User input: d
+[2025-10-02 22:47:27] Player moved right (D)
+[2025-10-02 22:47:27] Updating world state.
+[2025-10-02 22:47:27] Processing turn.
+[2025-10-02 22:47:27] Enemy moved.
+[2025-10-02 22:47:28] User input: w
+[2025-10-02 22:47:28] Player moved up (W)
+[2025-10-02 22:47:28] Updating world state.
+[2025-10-02 22:47:28] Processing turn.
+[2025-10-02 22:47:28] User input: d
+[2025-10-02 22:47:28] Player moved right (D)
+[2025-10-02 22:47:28] Updating world state.
+[2025-10-02 22:47:28] Processing turn.
+[2025-10-02 22:47:28] Enemy moved.
+[2025-10-02 22:47:29] User input: s
+[2025-10-02 22:47:29] Player moved down (S)
+[2025-10-02 22:47:29] Updating world state.
+[2025-10-02 22:47:29] Processing turn.
+[2025-10-02 22:47:29] Enemy moved.
+[2025-10-02 22:47:30] User input: a
+[2025-10-02 22:47:30] Player moved left (A)
+[2025-10-02 22:47:30] Updating world state.
+[2025-10-02 22:47:30] Processing turn.
+[2025-10-02 22:47:30] Enemy moved.
+[2025-10-02 22:47:30] User input: a
+[2025-10-02 22:47:30] Player moved left (A)
+[2025-10-02 22:47:30] Updating world state.
+[2025-10-02 22:47:30] Processing turn.
+[2025-10-02 22:47:30] Enemy moved.
+[2025-10-02 22:47:31] User input: a
+[2025-10-02 22:47:31] Player moved left (A)
+[2025-10-02 22:47:31] Updating world state.
+[2025-10-02 22:47:31] Processing turn.
+[2025-10-02 22:47:31] Enemy moved.
+[2025-10-02 22:47:31] User input: s
+[2025-10-02 22:47:31] Player moved down (S)
+[2025-10-02 22:47:31] Updating world state.
+[2025-10-02 22:47:31] Processing turn.
+[2025-10-02 22:47:31] Enemy moved.
+[2025-10-02 22:47:32] User input: d
+[2025-10-02 22:47:32] Player moved right (D)
+[2025-10-02 22:47:32] Updating world state.
+[2025-10-02 22:47:32] Processing turn.
+[2025-10-02 22:47:32] Enemy moved.
+[2025-10-02 22:47:32] User input: w
+[2025-10-02 22:47:32] Player moved up (W)
+[2025-10-02 22:47:32] Updating world state.
+[2025-10-02 22:47:32] Processing turn.
+[2025-10-02 22:47:32] Enemy moved.
+[2025-10-02 22:47:33] User input: a
+[2025-10-02 22:47:33] Player moved left (A)
+[2025-10-02 22:47:33] Updating world state.
+[2025-10-02 22:47:33] Processing turn.
+[2025-10-02 22:47:33] Enemy moved.
+[2025-10-02 22:47:34] User input: s
+[2025-10-02 22:47:34] Player moved down (S)
+[2025-10-02 22:47:34] Updating world state.
+[2025-10-02 22:47:34] Processing turn.
+[2025-10-02 22:47:34] Enemy moved.
+[2025-10-02 22:47:35] User input: d
+[2025-10-02 22:47:35] Player moved right (D)
+[2025-10-02 22:47:35] Updating world state.
+[2025-10-02 22:47:35] Processing turn.
+[2025-10-02 22:47:35] Enemy moved.
+[2025-10-02 22:47:35] User input: w
+[2025-10-02 22:47:35] Player moved up (W)
+[2025-10-02 22:47:35] Updating world state.
+[2025-10-02 22:47:35] Processing turn.
+[2025-10-02 22:47:35] Enemy moved.
+[2025-10-02 22:47:37] User input: s
+[2025-10-02 22:47:37] Player moved down (S)
+[2025-10-02 22:47:37] Updating world state.
+[2025-10-02 22:47:37] Processing turn.
+[2025-10-02 22:47:37] User input: d
+[2025-10-02 22:47:37] Player moved right (D)
+[2025-10-02 22:47:37] Updating world state.
+[2025-10-02 22:47:37] Processing turn.
+[2025-10-02 22:47:37] Enemy moved.
+[2025-10-02 22:47:38] User input: d
+[2025-10-02 22:47:38] Player moved right (D)
+[2025-10-02 22:47:38] Updating world state.
+[2025-10-02 22:47:38] Processing turn.
+[2025-10-02 22:47:38] User input: w
+[2025-10-02 22:47:38] Player moved up (W)
+[2025-10-02 22:47:38] Updating world state.
+[2025-10-02 22:47:38] Processing turn.
+[2025-10-02 22:47:38] Enemy moved.
+[2025-10-02 22:47:39] User input: d
+[2025-10-02 22:47:39] Player moved right (D)
+[2025-10-02 22:47:39] Updating world state.
+[2025-10-02 22:47:39] Processing turn.
+[2025-10-02 22:47:39] Enemy moved.
+[2025-10-02 22:47:40] User input: s
+[2025-10-02 22:47:40] Player moved down (S)
+[2025-10-02 22:47:40] Updating world state.
+[2025-10-02 22:47:40] Processing turn.
+[2025-10-02 22:47:40] Enemy moved.
+[2025-10-02 22:47:40] User input: a
+[2025-10-02 22:47:40] Player moved left (A)
+[2025-10-02 22:47:40] Updating world state.
+[2025-10-02 22:47:40] Processing turn.
+[2025-10-02 22:47:40] Enemy moved.
+[2025-10-02 22:47:41] User input: w
+[2025-10-02 22:47:41] Player moved up (W)
+[2025-10-02 22:47:41] Updating world state.
+[2025-10-02 22:47:41] Processing turn.
+[2025-10-02 22:47:41] User input: a
+[2025-10-02 22:47:41] Player moved left (A)
+[2025-10-02 22:47:41] Updating world state.
+[2025-10-02 22:47:41] Processing turn.
+[2025-10-02 22:47:42] User input: a
+[2025-10-02 22:47:42] Player moved left (A)
+[2025-10-02 22:47:42] Updating world state.
+[2025-10-02 22:47:42] Processing turn.
+[2025-10-02 22:47:42] Enemy moved.
+[2025-10-02 22:47:42] User input: a
+[2025-10-02 22:47:42] Player moved left (A)
+[2025-10-02 22:47:42] Updating world state.
+[2025-10-02 22:47:42] Processing turn.
+[2025-10-02 22:47:42] Enemy moved.
+[2025-10-02 22:47:43] User input: a
+[2025-10-02 22:47:43] Player moved left (A)
+[2025-10-02 22:47:43] Updating world state.
+[2025-10-02 22:47:43] Processing turn.
+[2025-10-02 22:47:43] Enemy moved.
+[2025-10-02 22:47:43] User input: s
+[2025-10-02 22:47:43] Player moved down (S)
+[2025-10-02 22:47:43] Updating world state.
+[2025-10-02 22:47:43] Processing turn.
+[2025-10-02 22:47:43] Enemy moved.
+[2025-10-02 22:47:44] User input: w
+[2025-10-02 22:47:44] Player moved up (W)
+[2025-10-02 22:47:44] Updating world state.
+[2025-10-02 22:47:44] Processing turn.
+[2025-10-02 22:47:44] Enemy moved.
+[2025-10-02 22:47:44] User input: d
+[2025-10-02 22:47:44] Player moved right (D)
+[2025-10-02 22:47:44] Updating world state.
+[2025-10-02 22:47:44] Processing turn.
+[2025-10-02 22:47:44] Enemy moved.
+[2025-10-02 22:47:45] User input: w
+[2025-10-02 22:47:45] Player moved up (W)
+[2025-10-02 22:47:45] Updating world state.
+[2025-10-02 22:47:45] Processing turn.
+[2025-10-02 22:47:45] Enemy moved.
+[2025-10-02 22:47:45] User input: s
+[2025-10-02 22:47:45] Player moved down (S)
+[2025-10-02 22:47:45] Updating world state.
+[2025-10-02 22:47:45] Processing turn.
+[2025-10-02 22:47:45] Enemy moved.
+[2025-10-02 22:47:46] User input: d
+[2025-10-02 22:47:46] Player moved right (D)
+[2025-10-02 22:47:46] Updating world state.
+[2025-10-02 22:47:46] Processing turn.
+[2025-10-02 22:47:46] Enemy moved.
+[2025-10-02 22:47:47] User input: d
+[2025-10-02 22:47:47] Player moved right (D)
+[2025-10-02 22:47:47] Updating world state.
+[2025-10-02 22:47:47] Processing turn.
+[2025-10-02 22:47:47] Enemy moved.
+[2025-10-02 22:47:47] User input: w
+[2025-10-02 22:47:47] Player moved up (W)
+[2025-10-02 22:47:47] Updating world state.
+[2025-10-02 22:47:47] Processing turn.
+[2025-10-02 22:47:47] Enemy moved.
+[2025-10-02 22:47:48] User input: a
+[2025-10-02 22:47:48] Player moved left (A)
+[2025-10-02 22:47:48] Updating world state.
+[2025-10-02 22:47:48] Processing turn.
+[2025-10-02 22:47:48] Enemy moved.
+[2025-10-02 22:47:48] User input: s
+[2025-10-02 22:47:48] Player moved down (S)
+[2025-10-02 22:47:48] Updating world state.
+[2025-10-02 22:47:48] Processing turn.
+[2025-10-02 22:47:48] Enemy moved.
+[2025-10-02 22:47:49] User input: a
+[2025-10-02 22:47:49] Player moved left (A)
+[2025-10-02 22:47:49] Updating world state.
+[2025-10-02 22:47:49] Processing turn.
+[2025-10-02 22:47:49] Enemy moved.
+[2025-10-02 22:47:49] User input: w
+[2025-10-02 22:47:49] Player moved up (W)
+[2025-10-02 22:47:49] Updating world state.
+[2025-10-02 22:47:49] Processing turn.
+[2025-10-02 22:47:49] Enemy moved.
+[2025-10-02 22:47:49] User input: d
+[2025-10-02 22:47:49] Player moved right (D)
+[2025-10-02 22:47:49] Updating world state.
+[2025-10-02 22:47:49] Processing turn.
+[2025-10-02 22:47:49] Enemy moved.
+[2025-10-02 22:47:50] User input: s
+[2025-10-02 22:47:50] Player moved down (S)
+[2025-10-02 22:47:50] Updating world state.
+[2025-10-02 22:47:50] Processing turn.
+[2025-10-02 22:47:50] Enemy moved.
+[2025-10-02 22:47:51] User input: d
+[2025-10-02 22:47:51] Player moved right (D)
+[2025-10-02 22:47:51] Updating world state.
+[2025-10-02 22:47:51] Processing turn.
+[2025-10-02 22:47:51] Enemy moved.
+[2025-10-02 22:47:51] User input: w
+[2025-10-02 22:47:51] Player moved up (W)
+[2025-10-02 22:47:51] Updating world state.
+[2025-10-02 22:47:51] Processing turn.
+[2025-10-02 22:47:52] User input: a
+[2025-10-02 22:47:52] Player moved left (A)
+[2025-10-02 22:47:52] Updating world state.
+[2025-10-02 22:47:52] Processing turn.
+[2025-10-02 22:47:52] Enemy moved.
+[2025-10-02 22:47:52] User input: d
+[2025-10-02 22:47:52] Player moved right (D)
+[2025-10-02 22:47:52] Updating world state.
+[2025-10-02 22:47:52] Processing turn.
+[2025-10-02 22:47:52] Enemy moved.
+[2025-10-02 22:47:53] User input: s
+[2025-10-02 22:47:53] Player moved down (S)
+[2025-10-02 22:47:53] Updating world state.
+[2025-10-02 22:47:53] Processing turn.
+[2025-10-02 22:47:53] Enemy moved.
+[2025-10-02 22:47:54] User input: q
+[2025-10-02 22:47:54] Shutting down Game Engine.
+[2025-10-02 23:32:17] Initializing Game Engine.
+[2025-10-02 23:32:17] Game Started.
+[2025-10-02 23:32:17] Game loop started.
+[2025-10-02 23:32:17] Generating basic room.
+[2025-10-02 23:32:17] Player picked up: Potion
+[2025-10-02 23:32:17] Player picked up: Sword
+[2025-10-02 23:32:17] Player picked up: Key
+[2025-10-02 23:32:18] User input: d
+[2025-10-02 23:32:18] Player moved right (D)
+[2025-10-02 23:32:18] Updating world state.
+[2025-10-02 23:32:18] Processing turn.
+[2025-10-02 23:32:18] Enemy moved.
+[2025-10-02 23:32:19] User input: w
+[2025-10-02 23:32:19] Player moved up (W)
+[2025-10-02 23:32:19] Updating world state.
+[2025-10-02 23:32:19] Processing turn.
+[2025-10-02 23:32:19] Enemy moved.
+[2025-10-02 23:32:20] User input: s
+[2025-10-02 23:32:20] Player moved down (S)
+[2025-10-02 23:32:20] Updating world state.
+[2025-10-02 23:32:20] Processing turn.
+[2025-10-02 23:32:20] Enemy moved.
+[2025-10-02 23:32:20] User input: w
+[2025-10-02 23:32:20] Player moved up (W)
+[2025-10-02 23:32:20] Updating world state.
+[2025-10-02 23:32:20] Processing turn.
+[2025-10-02 23:32:20] Enemy moved.
+[2025-10-02 23:32:21] User input: s
+[2025-10-02 23:32:21] Player moved down (S)
+[2025-10-02 23:32:21] Updating world state.
+[2025-10-02 23:32:21] Processing turn.
+[2025-10-02 23:32:22] User input: q
+[2025-10-02 23:32:22] Shutting down Game Engine.
+[2025-10-02 23:32:23] Initializing Game Engine.
+[2025-10-02 23:32:23] Game Started.
+[2025-10-02 23:32:23] Game loop started.
+[2025-10-02 23:32:24] Generating basic room.
+[2025-10-02 23:32:24] Player picked up: Potion
+[2025-10-02 23:32:24] Player picked up: Sword
+[2025-10-02 23:32:24] Player picked up: Key
+[2025-10-02 23:32:25] User input: w
+[2025-10-02 23:32:25] Player moved up (W)
+[2025-10-02 23:32:25] Updating world state.
+[2025-10-02 23:32:25] Processing turn.
+[2025-10-02 23:32:25] Enemy moved.
+[2025-10-02 23:32:26] User input: d
+[2025-10-02 23:32:26] Player moved right (D)
+[2025-10-02 23:32:26] Updating world state.
+[2025-10-02 23:32:26] Processing turn.
+[2025-10-02 23:32:26] Enemy moved.
+[2025-10-02 23:32:26] User input: s
+[2025-10-02 23:32:26] Player moved down (S)
+[2025-10-02 23:32:26] Updating world state.
+[2025-10-02 23:32:26] Processing turn.
+[2025-10-02 23:32:26] Enemy moved.
+[2025-10-02 23:32:27] User input: w
+[2025-10-02 23:32:27] Player moved up (W)
+[2025-10-02 23:32:27] Updating world state.
+[2025-10-02 23:32:27] Processing turn.
+[2025-10-02 23:32:27] Enemy moved.
+[2025-10-02 23:32:29] User input: s
+[2025-10-02 23:32:29] Player moved down (S)
+[2025-10-02 23:32:29] Updating world state.
+[2025-10-02 23:32:29] Processing turn.
+[2025-10-02 23:32:30] User input: s
+[2025-10-02 23:32:30] Player moved down (S)
+[2025-10-02 23:32:30] Updating world state.
+[2025-10-02 23:32:30] Processing turn.
+[2025-10-02 23:32:30] Enemy moved.
+[2025-10-02 23:32:31] User input: w
+[2025-10-02 23:32:31] Player moved up (W)
+[2025-10-02 23:32:31] Updating world state.
+[2025-10-02 23:32:31] Processing turn.
+[2025-10-02 23:32:31] Enemy moved.
+[2025-10-02 23:32:31] User input: w
+[2025-10-02 23:32:31] Player moved up (W)
+[2025-10-02 23:32:31] Updating world state.
+[2025-10-02 23:32:31] Processing turn.
+[2025-10-02 23:32:31] Enemy moved.
+[2025-10-02 23:32:32] User input: w
+[2025-10-02 23:32:32] Updating world state.
+[2025-10-02 23:32:32] Processing turn.
+[2025-10-02 23:32:32] Enemy moved.
+[2025-10-02 23:32:32] User input: w
+[2025-10-02 23:32:32] Updating world state.
+[2025-10-02 23:32:32] Processing turn.
+[2025-10-02 23:32:33] User input: q
+[2025-10-02 23:32:33] Shutting down Game Engine.
+[2025-10-02 23:32:34] Initializing Game Engine.
+[2025-10-02 23:32:34] Game Started.
+[2025-10-02 23:32:34] Game loop started.
+[2025-10-02 23:32:34] Generating basic room.
+[2025-10-02 23:32:34] Player picked up: Potion
+[2025-10-02 23:32:34] Player picked up: Sword
+[2025-10-02 23:32:34] Player picked up: Key
+[2025-10-02 23:32:35] User input: s
+[2025-10-02 23:32:35] Player moved down (S)
+[2025-10-02 23:32:35] Updating world state.
+[2025-10-02 23:32:35] Processing turn.
+[2025-10-02 23:32:35] Enemy moved.
+[2025-10-02 23:32:36] User input: s
+[2025-10-02 23:32:36] Updating world state.
+[2025-10-02 23:32:36] Processing turn.
+[2025-10-02 23:32:36] Enemy moved.
+[2025-10-02 23:32:37] User input: w
+[2025-10-02 23:32:37] Player moved up (W)
+[2025-10-02 23:32:37] Updating world state.
+[2025-10-02 23:32:37] Processing turn.
+[2025-10-02 23:32:37] Enemy moved.
+[2025-10-02 23:32:37] User input: w
+[2025-10-02 23:32:37] Player moved up (W)
+[2025-10-02 23:32:37] Updating world state.
+[2025-10-02 23:32:37] Processing turn.
+[2025-10-02 23:32:37] Enemy moved.
+[2025-10-02 23:32:38] User input: w
+[2025-10-02 23:32:38] Updating world state.
+[2025-10-02 23:32:38] Processing turn.
+[2025-10-02 23:32:39] User input: s
+[2025-10-02 23:32:39] Player moved down (S)
+[2025-10-02 23:32:39] Updating world state.
+[2025-10-02 23:32:39] Processing turn.
+[2025-10-02 23:32:39] Enemy moved.
+[2025-10-02 23:32:39] User input: s
+[2025-10-02 23:32:39] Player moved down (S)
+[2025-10-02 23:32:39] Updating world state.
+[2025-10-02 23:32:39] Processing turn.
+[2025-10-02 23:32:39] Enemy moved.
+[2025-10-02 23:32:40] User input: s
+[2025-10-02 23:32:40] Updating world state.
+[2025-10-02 23:32:40] Processing turn.
+[2025-10-02 23:32:40] Enemy moved.
+[2025-10-02 23:32:40] User input: s
+[2025-10-02 23:32:40] Updating world state.
+[2025-10-02 23:32:40] Processing turn.
+[2025-10-02 23:32:40] Enemy moved.
+[2025-10-02 23:32:42] User input: q
+[2025-10-02 23:32:42] Shutting down Game Engine.
+[2025-10-02 23:32:43] Initializing Game Engine.
+[2025-10-02 23:32:43] Game Started.
+[2025-10-02 23:32:43] Game loop started.
+[2025-10-02 23:32:43] Generating basic room.
+[2025-10-02 23:32:43] Player picked up: Potion
+[2025-10-02 23:32:43] Player picked up: Sword
+[2025-10-02 23:32:43] Player picked up: Key
+[2025-10-02 23:32:44] User input: w
+[2025-10-02 23:32:44] Player moved up (W)
+[2025-10-02 23:32:44] Updating world state.
+[2025-10-02 23:32:44] Processing turn.
+[2025-10-02 23:32:44] Enemy moved.
+[2025-10-02 23:32:45] User input: w
+[2025-10-02 23:32:45] Updating world state.
+[2025-10-02 23:32:45] Processing turn.
+[2025-10-02 23:32:45] Enemy moved.
+[2025-10-02 23:32:45] User input: w
+[2025-10-02 23:32:45] Updating world state.
+[2025-10-02 23:32:45] Processing turn.
+[2025-10-02 23:32:45] Enemy moved.
+[2025-10-02 23:32:46] User input: w
+[2025-10-02 23:32:46] Updating world state.
+[2025-10-02 23:32:46] Processing turn.
+[2025-10-02 23:32:46] Enemy moved.
+[2025-10-02 23:32:46] User input: w
+[2025-10-02 23:32:46] Updating world state.
+[2025-10-02 23:32:46] Processing turn.
+[2025-10-02 23:32:47] User input: w
+[2025-10-02 23:32:47] Updating world state.
+[2025-10-02 23:32:47] Processing turn.
+[2025-10-02 23:32:47] Enemy moved.
+[2025-10-02 23:32:47] User input: w
+[2025-10-02 23:32:47] Updating world state.
+[2025-10-02 23:32:47] Processing turn.
+[2025-10-02 23:32:47] Enemy moved.
+[2025-10-02 23:32:48] User input: w
+[2025-10-02 23:32:48] Updating world state.
+[2025-10-02 23:32:48] Processing turn.
+[2025-10-02 23:32:48] Enemy moved.
+[2025-10-02 23:32:48] User input: w
+[2025-10-02 23:32:48] Updating world state.
+[2025-10-02 23:32:48] Processing turn.
+[2025-10-02 23:32:48] Enemy moved.
+[2025-10-02 23:32:49] User input: w
+[2025-10-02 23:32:49] Updating world state.
+[2025-10-02 23:32:49] Processing turn.
+[2025-10-02 23:32:49] User input: w
+[2025-10-02 23:32:49] Updating world state.
+[2025-10-02 23:32:49] Processing turn.
+[2025-10-02 23:32:49] Enemy moved.
+[2025-10-02 23:32:50] User input: w
+[2025-10-02 23:32:50] Updating world state.
+[2025-10-02 23:32:50] Processing turn.
+[2025-10-02 23:32:50] Enemy moved.
+[2025-10-02 23:32:50] User input: w
+[2025-10-02 23:32:50] Updating world state.
+[2025-10-02 23:32:50] Processing turn.
+[2025-10-02 23:32:50] Enemy moved.
+[2025-10-02 23:32:50] User input: w
+[2025-10-02 23:32:50] Updating world state.
+[2025-10-02 23:32:50] Processing turn.
+[2025-10-02 23:32:50] Enemy moved.
+[2025-10-02 23:32:50] User input: w
+[2025-10-02 23:32:50] Updating world state.
+[2025-10-02 23:32:50] Processing turn.
+[2025-10-02 23:32:50] Enemy moved.
+[2025-10-02 23:32:51] User input: w
+[2025-10-02 23:32:51] Updating world state.
+[2025-10-02 23:32:51] Processing turn.
+[2025-10-02 23:32:51] Enemy moved.
+[2025-10-02 23:32:51] User input: w
+[2025-10-02 23:32:51] Updating world state.
+[2025-10-02 23:32:51] Processing turn.
+[2025-10-02 23:32:51] Enemy moved.
+[2025-10-02 23:32:51] User input: w
+[2025-10-02 23:32:51] Updating world state.
+[2025-10-02 23:32:51] Processing turn.
+[2025-10-02 23:32:51] Enemy moved.
+[2025-10-02 23:32:51] User input: w
+[2025-10-02 23:32:51] Updating world state.
+[2025-10-02 23:32:51] Processing turn.
+[2025-10-02 23:32:51] Enemy moved.
+[2025-10-02 23:33:08] User input: q
+[2025-10-02 23:33:08] Shutting down Game Engine.
+[2025-10-03 00:02:08] Initializing Game Engine.
+[2025-10-03 00:02:08] Game Started.
+[2025-10-03 00:02:08] Game loop started.
+[2025-10-03 00:02:08] Generating basic room.
+[2025-10-03 00:02:08] Player picked up: Potion
+[2025-10-03 00:02:08] Player picked up: Sword
+[2025-10-03 00:02:08] Player picked up: Key
+[2025-10-03 00:02:10] User input: 
+[2025-10-03 00:02:10] User input: [
+[2025-10-03 00:02:10] User input: A
+[2025-10-03 00:02:11] User input: 
+[2025-10-03 00:02:11] User input: [
+[2025-10-03 00:02:11] User input: B
+[2025-10-03 00:02:12] User input: w
+[2025-10-03 00:02:12] Player moved up (W)
+[2025-10-03 00:02:12] Updating world state.
+[2025-10-03 00:02:12] Processing turn.
+[2025-10-03 00:02:12] Enemy moved.
+[2025-10-03 00:02:13] User input: d
+[2025-10-03 00:02:13] Player moved right (D)
+[2025-10-03 00:02:13] Updating world state.
+[2025-10-03 00:02:13] Processing turn.
+[2025-10-03 00:02:13] Enemy moved.
+[2025-10-03 00:02:14] User input: s
+[2025-10-03 00:02:14] Player moved down (S)
+[2025-10-03 00:02:14] Updating world state.
+[2025-10-03 00:02:14] Processing turn.
+[2025-10-03 00:02:14] User input: s
+[2025-10-03 00:02:14] Player moved down (S)
+[2025-10-03 00:02:14] Updating world state.
+[2025-10-03 00:02:14] Processing turn.
+[2025-10-03 00:02:14] Enemy moved.
+[2025-10-03 00:02:15] User input: d
+[2025-10-03 00:02:15] Player moved right (D)
+[2025-10-03 00:02:15] Updating world state.
+[2025-10-03 00:02:15] Processing turn.
+[2025-10-03 00:02:15] Enemy moved.
+[2025-10-03 00:02:15] User input: d
+[2025-10-03 00:02:15] Player moved right (D)
+[2025-10-03 00:02:15] Updating world state.
+[2025-10-03 00:02:15] Processing turn.
+[2025-10-03 00:02:15] Enemy moved.
+[2025-10-03 00:02:16] User input: d
+[2025-10-03 00:02:16] Player moved right (D)
+[2025-10-03 00:02:16] Updating world state.
+[2025-10-03 00:02:16] Processing turn.
+[2025-10-03 00:02:16] Enemy moved.
+[2025-10-03 00:02:16] User input: a
+[2025-10-03 00:02:16] Player moved left (A)
+[2025-10-03 00:02:16] Updating world state.
+[2025-10-03 00:02:16] Processing turn.
+[2025-10-03 00:02:16] Enemy moved.
+[2025-10-03 00:02:17] User input: q
+[2025-10-03 00:02:17] Shutting down Game Engine.
+[2025-10-03 00:02:18] Initializing Game Engine.
+[2025-10-03 00:02:18] Game Started.
+[2025-10-03 00:02:18] Game loop started.
+[2025-10-03 00:02:18] Generating basic room.
+[2025-10-03 00:02:18] Player picked up: Potion
+[2025-10-03 00:02:18] Player picked up: Sword
+[2025-10-03 00:02:18] Player picked up: Key
+[2025-10-03 00:02:19] User input: d
+[2025-10-03 00:02:19] Player moved right (D)
+[2025-10-03 00:02:19] Updating world state.
+[2025-10-03 00:02:19] Processing turn.
+[2025-10-03 00:02:19] Enemy moved.
+[2025-10-03 00:02:19] User input: s
+[2025-10-03 00:02:19] Player moved down (S)
+[2025-10-03 00:02:19] Updating world state.
+[2025-10-03 00:02:19] Processing turn.
+[2025-10-03 00:02:19] Enemy moved.
+[2025-10-03 00:02:20] User input: a
+[2025-10-03 00:02:20] Player moved left (A)
+[2025-10-03 00:02:20] Updating world state.
+[2025-10-03 00:02:20] Processing turn.
+[2025-10-03 00:02:20] Enemy moved.
+[2025-10-03 00:02:20] User input: w
+[2025-10-03 00:02:20] Player moved up (W)
+[2025-10-03 00:02:20] Updating world state.
+[2025-10-03 00:02:20] Processing turn.
+[2025-10-03 00:02:20] Enemy moved.
+[2025-10-03 00:02:21] User input: a
+[2025-10-03 00:02:21] Player moved left (A)
+[2025-10-03 00:02:21] Updating world state.
+[2025-10-03 00:02:21] Processing turn.
+[2025-10-03 00:02:21] Enemy moved.
+[2025-10-03 00:02:22] User input: s
+[2025-10-03 00:02:22] Player moved down (S)
+[2025-10-03 00:02:22] Updating world state.
+[2025-10-03 00:02:22] Processing turn.
+[2025-10-03 00:02:22] Enemy moved.
+[2025-10-03 00:02:22] User input: s
+[2025-10-03 00:02:22] Updating world state.
+[2025-10-03 00:02:22] Processing turn.
+[2025-10-03 00:02:22] Enemy moved.
+[2025-10-03 00:02:23] User input: s
+[2025-10-03 00:02:23] Updating world state.
+[2025-10-03 00:02:23] Processing turn.
+[2025-10-03 00:02:23] Enemy moved.
+[2025-10-03 00:02:23] User input: s
+[2025-10-03 00:02:23] Updating world state.
+[2025-10-03 00:02:23] Processing turn.
+[2025-10-03 00:02:23] Enemy moved.
+[2025-10-03 00:02:24] User input: s
+[2025-10-03 00:02:24] Updating world state.
+[2025-10-03 00:02:24] Processing turn.
+[2025-10-03 00:02:24] Enemy moved.
+[2025-10-03 00:02:24] User input: s
+[2025-10-03 00:02:24] Updating world state.
+[2025-10-03 00:02:24] Processing turn.
+[2025-10-03 00:02:24] Enemy moved.
+[2025-10-03 00:02:25] User input: s
+[2025-10-03 00:02:25] Updating world state.
+[2025-10-03 00:02:25] Processing turn.
+[2025-10-03 00:02:25] Enemy moved.
+[2025-10-03 00:02:25] User input: s
+[2025-10-03 00:02:25] Updating world state.
+[2025-10-03 00:02:25] Processing turn.
+[2025-10-03 00:02:25] Enemy moved.
+[2025-10-03 00:02:26] User input: q
+[2025-10-03 00:02:26] Shutting down Game Engine.
+[2025-10-03 00:02:27] Initializing Game Engine.
+[2025-10-03 00:02:27] Game Started.
+[2025-10-03 00:02:27] Game loop started.
+[2025-10-03 00:02:27] Generating basic room.
+[2025-10-03 00:02:27] Player picked up: Potion
+[2025-10-03 00:02:27] Player picked up: Sword
+[2025-10-03 00:02:27] Player picked up: Key
+[2025-10-03 00:02:28] User input: s
+[2025-10-03 00:02:28] Player moved down (S)
+[2025-10-03 00:02:28] Updating world state.
+[2025-10-03 00:02:28] Processing turn.
+[2025-10-03 00:02:28] Enemy moved.
+[2025-10-03 00:02:29] User input: s
+[2025-10-03 00:02:29] Updating world state.
+[2025-10-03 00:02:29] Processing turn.
+[2025-10-03 00:02:29] Enemy moved.
+[2025-10-03 00:02:29] User input: s
+[2025-10-03 00:02:29] Updating world state.
+[2025-10-03 00:02:29] Processing turn.
+[2025-10-03 00:02:29] Enemy moved.
+[2025-10-03 00:02:29] User input: s
+[2025-10-03 00:02:29] Updating world state.
+[2025-10-03 00:02:29] Processing turn.
+[2025-10-03 00:02:29] Enemy moved.
+[2025-10-03 00:02:30] User input: s
+[2025-10-03 00:02:30] Updating world state.
+[2025-10-03 00:02:30] Processing turn.
+[2025-10-03 00:02:30] Enemy moved.
+[2025-10-03 00:02:30] User input: s
+[2025-10-03 00:02:30] Updating world state.
+[2025-10-03 00:02:30] Processing turn.
+[2025-10-03 00:02:30] Enemy moved.
+[2025-10-03 00:02:31] User input: s
+[2025-10-03 00:02:31] Updating world state.
+[2025-10-03 00:02:31] Processing turn.
+[2025-10-03 00:02:31] User input: s
+[2025-10-03 00:02:31] Updating world state.
+[2025-10-03 00:02:31] Processing turn.
+[2025-10-03 00:02:31] Enemy moved.
+[2025-10-03 00:02:31] User input: s
+[2025-10-03 00:02:31] Updating world state.
+[2025-10-03 00:02:31] Processing turn.
+[2025-10-03 00:02:32] User input: s
+[2025-10-03 00:02:32] Updating world state.
+[2025-10-03 00:02:32] Processing turn.
+[2025-10-03 00:02:32] Enemy moved.
+[2025-10-03 00:02:32] User input: s
+[2025-10-03 00:02:32] Updating world state.
+[2025-10-03 00:02:32] Processing turn.
+[2025-10-03 00:02:32] User input: s
+[2025-10-03 00:02:32] Updating world state.
+[2025-10-03 00:02:32] Processing turn.
+[2025-10-03 00:02:32] Enemy moved.
+[2025-10-03 00:02:33] User input: s
+[2025-10-03 00:02:33] Updating world state.
+[2025-10-03 00:02:33] Processing turn.
+[2025-10-03 00:02:33] Enemy moved.
+[2025-10-03 00:02:33] User input: s
+[2025-10-03 00:02:33] Updating world state.
+[2025-10-03 00:02:33] Processing turn.
+[2025-10-03 00:02:33] Enemy moved.
+[2025-10-03 00:02:34] User input: s
+[2025-10-03 00:02:34] Updating world state.
+[2025-10-03 00:02:34] Processing turn.
+[2025-10-03 00:02:34] Enemy moved.
+[2025-10-03 00:02:34] User input: s
+[2025-10-03 00:02:34] Updating world state.
+[2025-10-03 00:02:34] Processing turn.
+[2025-10-03 00:02:34] Enemy moved.
+[2025-10-03 00:02:35] User input: q
+[2025-10-03 00:02:35] Shutting down Game Engine.
+[2025-10-03 00:02:36] Initializing Game Engine.
+[2025-10-03 00:02:36] Game Started.
+[2025-10-03 00:02:36] Game loop started.
+[2025-10-03 00:02:36] Generating basic room.
+[2025-10-03 00:02:36] Player picked up: Potion
+[2025-10-03 00:02:36] Player picked up: Sword
+[2025-10-03 00:02:36] Player picked up: Key
+[2025-10-03 00:02:37] User input: s
+[2025-10-03 00:02:37] Player moved down (S)
+[2025-10-03 00:02:37] Updating world state.
+[2025-10-03 00:02:37] Processing turn.
+[2025-10-03 00:02:37] Enemy moved.
+[2025-10-03 00:02:40] User input: s
+[2025-10-03 00:02:40] Updating world state.
+[2025-10-03 00:02:40] Processing turn.
+[2025-10-03 00:02:40] Enemy moved.
+[2025-10-03 00:02:40] User input: s
+[2025-10-03 00:02:40] Updating world state.
+[2025-10-03 00:02:40] Processing turn.
+[2025-10-03 00:02:40] Enemy moved.
+[2025-10-03 00:02:40] User input: s
+[2025-10-03 00:02:40] Updating world state.
+[2025-10-03 00:02:40] Processing turn.
+[2025-10-03 00:02:41] User input: s
+[2025-10-03 00:02:41] Updating world state.
+[2025-10-03 00:02:41] Processing turn.
+[2025-10-03 00:02:41] Enemy moved.
+[2025-10-03 00:02:41] User input: s
+[2025-10-03 00:02:41] Updating world state.
+[2025-10-03 00:02:41] Processing turn.
+[2025-10-03 00:02:42] User input: s
+[2025-10-03 00:02:42] Updating world state.
+[2025-10-03 00:02:42] Processing turn.
+[2025-10-03 00:02:42] User input: s
+[2025-10-03 00:02:42] Updating world state.
+[2025-10-03 00:02:42] Processing turn.
+[2025-10-03 00:02:42] Enemy moved.
+[2025-10-03 00:02:42] User input: s
+[2025-10-03 00:02:42] Updating world state.
+[2025-10-03 00:02:42] Processing turn.
+[2025-10-03 00:02:42] Enemy moved.
+[2025-10-03 00:02:43] User input: w
+[2025-10-03 00:02:43] Player moved up (W)
+[2025-10-03 00:02:43] Updating world state.
+[2025-10-03 00:02:43] Processing turn.
+[2025-10-03 00:02:43] Enemy moved.
+[2025-10-03 00:02:43] User input: d
+[2025-10-03 00:02:43] Player moved right (D)
+[2025-10-03 00:02:43] Updating world state.
+[2025-10-03 00:02:43] Processing turn.
+[2025-10-03 00:02:43] Enemy moved.
+[2025-10-03 00:02:44] User input: a
+[2025-10-03 00:02:44] Player moved left (A)
+[2025-10-03 00:02:44] Updating world state.
+[2025-10-03 00:02:44] Processing turn.
+[2025-10-03 00:02:44] Enemy moved.
+[2025-10-03 00:02:44] User input: s
+[2025-10-03 00:02:44] Player moved down (S)
+[2025-10-03 00:02:44] Updating world state.
+[2025-10-03 00:02:44] Processing turn.
+[2025-10-03 00:02:44] Enemy moved.
+[2025-10-03 00:02:44] User input: d
+[2025-10-03 00:02:44] Player moved right (D)
+[2025-10-03 00:02:44] Updating world state.
+[2025-10-03 00:02:44] Processing turn.
+[2025-10-03 00:02:45] User input: q
+[2025-10-03 00:02:45] Shutting down Game Engine.

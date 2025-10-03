@@ -2,6 +2,7 @@
 #define ENTITY_H
 
 #include <iostream>
+#include "../World/Map.h"
 
 class Entity {
 public:
@@ -10,7 +11,7 @@ public:
 
     virtual ~Entity() = default;
 
-    virtual void update() = 0;
+    virtual void update(Map& map) = 0;
 
     virtual void render() const {
         std::cout << symbol;

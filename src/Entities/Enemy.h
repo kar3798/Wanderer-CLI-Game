@@ -8,7 +8,7 @@ class Enemy : public Entity{
 public:
     Enemy(int x, int y);
 
-    void update() override;
+    void update(Map& map) override;
 };
 
 #endif //ENEMY_H

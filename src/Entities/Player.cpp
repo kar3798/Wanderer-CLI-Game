@@ -5,7 +5,7 @@ Player::Player(int x, int y)
     : Entity(x, y, '@', 100)
 { }
 
-void Player::update() {
+void Player::update(Map& map) {
 
 }
 

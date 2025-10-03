@@ -12,7 +12,7 @@ public:
 
     Player(int x, int y);
 
-    void update() override;
+    void update(Map& map) override;
 
     void addItem(std::unique_ptr<Item> item);
     std::string useItem(const std::string& name);

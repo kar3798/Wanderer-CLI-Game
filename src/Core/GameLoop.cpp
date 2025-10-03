@@ -98,7 +98,10 @@ void GameLoop::updateWorld() {
 
 void GameLoop::processTurn() {
     Logger::log("Processing turn.");
-    std::cout << "[Turn] Processing player/enemy actions...\n";
+
+    for (auto& e : entities) {
+        e->update(map);
+    }
 }
 
 void GameLoop::renderInventory() {
