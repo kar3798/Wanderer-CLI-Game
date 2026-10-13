@@ -1,5 +1,12 @@
 # CMake build directories
 cmake-build-*/
 
+# Build output
+/Rougelike
+/Rougelike.exe
+
+# Runtime logs
+*.log
+
 #Text files
 token_for_github.txt
