@@ -1,11 +1,12 @@
 #include "Player.h"
 #include "../Utils/Logger.h"
+#include "../Core/GameLoop.h"
 
 Player::Player(int x, int y)
-    : Entity(x, y, '@', 100)
+    : Entity(x, y, '@', 100, 10)
 { }
 
-void Player::update(Map& map) {
+void Player::update(Map& map, GameLoop& loop) {
 
 }
 

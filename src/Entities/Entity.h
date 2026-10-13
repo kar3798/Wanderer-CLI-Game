@@ -6,12 +6,12 @@
 
 class Entity {
 public:
-    Entity(int x, int y, char symbol, int hp)
-        : x(x), y(y), symbol(symbol), hp(hp) {}
+    Entity(int x, int y, char symbol, int hp, int attack)
+        : x(x), y(y), symbol(symbol), hp(hp), attack(attack) {}
 
     virtual ~Entity() = default;
 
-    virtual void update(Map& map) = 0;
+    virtual void update(Map& map, class GameLoop& loop) = 0;
 
     virtual void render() const {
         std::cout << symbol;
@@ -24,11 +24,13 @@ public:
     int getHP () const { return hp; }
     void takeDamage(int amount) { hp -= amount; }
     char getSymbol() const { return symbol; }
+    int getAttack() const { return attack; }
 
 protected:
     int x, y;
     char symbol;
     int hp;
+    int attack;
 };
 
 #endif //ENTITY_H
