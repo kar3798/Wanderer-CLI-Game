@@ -63,10 +63,20 @@ void GameLoop::addMessage(const std::string& msg) {
     }
 }
 
+bool GameLoop::isEntityAt(int x, int y, Entity* exclude) {
+    for (auto& e : entities) {
+        if (e.get() != exclude && e->getX() == x && e->getY() == y) {
+            return true;
+        }
+    }
+    return false;
+}
+
 void GameLoop::movePlayer(int dx, int dy, const std::string &direction) {
     int x = player->getX();
     int y = player->getY();
-    if (isWalkable(map.getTileType(x + dx, y + dy))) {
+    if (isWalkable(map.getTileType(x + dx, y + dy))
+    && !isEntityAt(x + dx, y + dy, player)) {
         player->setPosition(x + dx, y + dy);
         addMessage("Player moved " + direction);
         Logger::log("Player moved " + direction);
@@ -100,7 +110,7 @@ void GameLoop::processTurn() {
     Logger::log("Processing turn.");
 
     for (auto& e : entities) {
-        e->update(map);
+        e->update(map, *this);
     }
 }
 
@@ -123,16 +133,57 @@ void GameLoop::handleInventoryInput() {
     }
 }
 
+void GameLoop::playerAttack(int dx, int dy) {
+    int px = player->getX();
+    int py = player->getY();
+
+    // check all 4 adjacent tiles
+    std::vector<std::pair<int,int>> directions = {
+            {0, -1}, {0, 1}, {-1, 0}, {1, 0}
+    };
+
+    bool attacked = false;
+
+    for (auto dir : directions) {
+        int tx = px + dir.first;
+        int ty = py + dir.second;
+
+        for (auto it = entities.begin(); it != entities.end(); ++it) {
+            Enemy* enemy = dynamic_cast<Enemy*>(it->get());
+            if (enemy && enemy->getX() == tx && enemy->getY() == ty) {
+                int dmg = player->getAttack();
+                enemy->takeDamage(dmg);
+                addMessage("You hit the enemy for " + std::to_string(player->getAttack()) + " damage!");
+
+                if (enemy->getHP() <= 0) {
+                    addMessage("Enemy died!");
+                    entities.erase(it); // removing dead enemy
+                }
+                attacked = true;
+                break; // stop after hitting one enemy in that direction
+            }
+        }
+        if (attacked) break; // only one attack per action
+    }
+    if (!attacked) {
+        addMessage("No enemy nearby to attack!");
+    }
+}
 
 void GameLoop::start() {
     Logger::log("Game loop started.");
     printTitleArt();
-//    printLoadingBar();
+    printLoadingBar();
     std::this_thread::sleep_for(std::chrono::milliseconds(100));
-    Logger::log("Generating basic room.");
-    map.generateBasicRoom();
+    Logger::log("Generating dungeon.");
+    map.generateDungeon();
 
-    player = new Player(2, 2);
+    const auto& rooms = map.getRooms();
+
+    // Player spawns in the first generated room.
+    int playerX = rooms[0].getCenterX();
+    int playerY = rooms[0].getCenterY();
+    player = new Player(playerX, playerY);
     entities.push_back(std::unique_ptr<Entity>(player));
 
     // Adding starting items
@@ -140,21 +191,42 @@ void GameLoop::start() {
     player->addItem(std::make_unique<Sword>());
     player->addItem(std::make_unique<Key>());
 
-    // Spawn enemy
-    entities.push_back(std::make_unique<Enemy>(5, 2));
+    // Enemy spawns in a different room when one exists, so it isn't next to the player.
+    int enemyRoomIndex = (rooms.size() > 1) ? 1 : 0;
+    int enemyX = rooms[enemyRoomIndex].getCenterX();
+    int enemyY = rooms[enemyRoomIndex].getCenterY();
+
+    // Only reachable if generation degenerated to a single room: nudge off the player's tile.
+    if (enemyX == playerX && enemyY == playerY) {
+        enemyX += 1;
+        if (map.getTileType(enemyX, enemyY) != TileType::Floor) {
+            enemyX -= 2;
+        }
+    }
+
+    entities.push_back(std::make_unique<Enemy>(enemyX, enemyY));
 
     // Commands
+    // Character Movement
     commands["w"] = { [this]() { movePlayer(0, -1, "up (W)"); }, 1 };
     commands["s"] = { [this]() { movePlayer(0, 1, "down (S)"); }, 1 };
     commands["a"] = { [this]() { movePlayer(-1, 0, "left (A)"); }, 1 };
     commands["d"] = { [this]() { movePlayer(1, 0, "right (D)"); }, 1 };
 
-    commands["p"] = { [this]() { addMessage(player->useItem("Potion")); }, 3 };
-    commands["S"]  = { [this]() { addMessage(player->useItem("Sword")); }, 2 };
-    commands["k"]    = { [this]() { addMessage(player->useItem("Key")); }, 2 };
+    // Combat Actions
+    commands["1"] = { [this]() { addMessage(player->useItem("Potion")); }, 3 };
+    commands["2"] = { [this]() { addMessage(player->useItem("Sword")); }, 2 };
+    commands["3"] = { [this]() { addMessage(player->useItem("Key")); }, 2 };
 
+    commands["W"] = { [this]() { playerAttack(0, -1);}, 1};
+    commands["A"] = { [this]() { playerAttack(0, 1);}, 1};
+    commands["S"] = { [this]() { playerAttack(-1, 0);}, 1};
+    commands["D"] = { [this]() { playerAttack(1, 0);}, 1};
+
+    // Inventory
     commands["i"] = { [this]() { state = GameState::Inventory; }, 0 };
 
+    // Quit
     commands["q"] = { [this]() { isRunning = false; }, 0 };
 
     while (isRunning){

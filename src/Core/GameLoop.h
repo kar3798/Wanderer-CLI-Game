@@ -14,6 +14,7 @@
 class GameLoop {
 public:
     void start();
+    bool isEntityAt(int x, int y, Entity* exclude);
 
 private:
     void printTitleArt();
@@ -26,10 +27,11 @@ private:
     void processTurn();
     void renderInventory();
     void handleInventoryInput();
+    void playerAttack(int dx, int dy);
 
     bool isRunning = true;
 
-    Map map = Map(10, 5);
+    Map map = Map(40, 20);
 
     std::vector<std::unique_ptr<Entity>> entities;
     Player* player = nullptr;
