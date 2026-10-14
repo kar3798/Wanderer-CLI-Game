@@ -12,9 +12,15 @@ Working agreement: one system at a time, fully understood before moving on (see 
 ## Phase 1 — Finish terminal gameplay (current focus)
 Goal: a feature-complete terminal game — something actually fun to play start-to-finish in the console — before touching graphics or hardware.
 
-- [ ] Fix `GameLoop::playerAttack(dx, dy)`: the parameters are currently ignored (it always checks all 4 directions), so the W/A/S/D attack keys don't correspond to the directions their names imply. Decide: either make it attack only the intended direction, or remove the unused params if "attack anything adjacent" is the intended design.
-- [ ] HP display: show player (and ideally enemy) HP during `render()` — right now HP is tracked internally but never shown to the player.
-- [ ] Win/lose conditions: player death → game over screen instead of just looping; define what "winning" means (clear all enemies? reach a specific room?).
+- [x] Directional Shift+WASD attacks (previously ignored the direction and two keys were swapped)
+- [x] Enemies attack the player when adjacent
+- [x] HP display: player HP/ATK status line; enemy HP shown in hit messages
+- [x] Lose condition: player death → GAME OVER screen
+- [ ] Win condition: define what "winning" means (clear all enemies? reach stairs on the last floor?) — pairs well with multiple enemies/levels
+- [ ] Intro/main menu: rules, how to play, a bit of lore — on the agenda, not yet scheduled
+- [ ] Cleanup: `Player` redeclares its own `attack` (shadows `Entity::attack`) and `getHealth()` duplicates `getHP()`; `Enemy.cpp` has unused file-level `rng`/`dist` shadowed by the function-local ones
+- [ ] Bump-to-attack: walking into an enemy attacks it (classic roguelike feel; frees Shift keys for later)
+- [ ] Balance: potion costs 3 turns, so an adjacent enemy gets 3 hits (15 dmg) against a 20 HP heal — likely too punishing
 - [ ] Give the Key a purpose: a door or locked chest tile/mechanic it actually unlocks (currently a placeholder with no effect).
 - [ ] Loot drops: enemies drop something (item/currency) on death instead of just disappearing.
 - [ ] Multiple enemy types: at least one more `Enemy`-derived type with different stats/behavior.

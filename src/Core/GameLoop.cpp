@@ -5,6 +5,7 @@
 #include "../Items/Key.h"
 #include "../Utils/Input.h"
 #include <iostream>
+#include <algorithm>
 #include <chrono>
 #include <thread>
 
@@ -44,6 +45,9 @@ void GameLoop::render() {
     system("clear");
 #endif
     map.render(entities);
+
+    std::cout << "HP: " << std::max(0, player->getHP()) << "/" << Player::MAX_HP
+              << "   ATK: " << player->getAttack() << "\n";
 
     std::cout << "\n--- Messages ---\n";
     for (const auto& msg : messageLog) {
@@ -85,7 +89,7 @@ void GameLoop::movePlayer(int dx, int dy, const std::string &direction) {
 
 int GameLoop::handleInput() {
 
-    std::cout << "[Input] Enter command (WASD to move, q to quit): ";
+    std::cout << "[Input] WASD move, Shift+WASD attack, i inventory, q quit: ";
     char ch = getCharInput();
     std::string input(1, ch);
     Logger::log("User input: " + input);
@@ -112,6 +116,11 @@ void GameLoop::processTurn() {
     for (auto& e : entities) {
         e->update(map, *this);
     }
+
+    if (player->getHP() <= 0) {
+        state = GameState::GameOver;
+        Logger::log("Player died.");
+    }
 }
 
 void GameLoop::renderInventory() {
@@ -134,40 +143,27 @@ void GameLoop::handleInventoryInput() {
 }
 
 void GameLoop::playerAttack(int dx, int dy) {
-    int px = player->getX();
-    int py = player->getY();
+    int tx = player->getX() + dx;
+    int ty = player->getY() + dy;
 
-    // check all 4 adjacent tiles
-    std::vector<std::pair<int,int>> directions = {
-            {0, -1}, {0, 1}, {-1, 0}, {1, 0}
-    };
+    for (auto it = entities.begin(); it != entities.end(); ++it) {
+        Enemy* enemy = dynamic_cast<Enemy*>(it->get());
+        if (enemy && enemy->getX() == tx && enemy->getY() == ty) {
+            int dmg = player->getAttack();
+            enemy->takeDamage(dmg);
 
-    bool attacked = false;
-
-    for (auto dir : directions) {
-        int tx = px + dir.first;
-        int ty = py + dir.second;
-
-        for (auto it = entities.begin(); it != entities.end(); ++it) {
-            Enemy* enemy = dynamic_cast<Enemy*>(it->get());
-            if (enemy && enemy->getX() == tx && enemy->getY() == ty) {
-                int dmg = player->getAttack();
-                enemy->takeDamage(dmg);
-                addMessage("You hit the enemy for " + std::to_string(player->getAttack()) + " damage!");
-
-                if (enemy->getHP() <= 0) {
-                    addMessage("Enemy died!");
-                    entities.erase(it); // removing dead enemy
-                }
-                attacked = true;
-                break; // stop after hitting one enemy in that direction
+            if (enemy->getHP() <= 0) {
+                addMessage("You hit the enemy for " + std::to_string(dmg) + " damage. Enemy died!");
+                entities.erase(it);
+            } else {
+                addMessage("You hit the enemy for " + std::to_string(dmg) + " damage! ("
+                           + std::to_string(enemy->getHP()) + " HP left)");
             }
+            // erase() invalidated `it` and `enemy`, so leave before touching either again.
+            return;
         }
-        if (attacked) break; // only one attack per action
     }
-    if (!attacked) {
-        addMessage("No enemy nearby to attack!");
-    }
+    addMessage("You swing at empty air.");
 }
 
 void GameLoop::start() {
@@ -219,8 +215,8 @@ void GameLoop::start() {
     commands["3"] = { [this]() { addMessage(player->useItem("Key")); }, 2 };
 
     commands["W"] = { [this]() { playerAttack(0, -1);}, 1};
-    commands["A"] = { [this]() { playerAttack(0, 1);}, 1};
-    commands["S"] = { [this]() { playerAttack(-1, 0);}, 1};
+    commands["A"] = { [this]() { playerAttack(-1, 0);}, 1};
+    commands["S"] = { [this]() { playerAttack(0, 1);}, 1};
     commands["D"] = { [this]() { playerAttack(1, 0);}, 1};
 
     // Inventory
@@ -233,7 +229,8 @@ void GameLoop::start() {
         render();
         if (state == GameState::Playing) {
             int turns = handleInput();
-            for (int i = 0; i < turns; ++i) {
+            // Stop resolving turns the moment the player dies (e.g. mid 3-turn potion).
+            for (int i = 0; i < turns && state == GameState::Playing; ++i) {
                 updateWorld();
                 processTurn();
             }
@@ -241,6 +238,12 @@ void GameLoop::start() {
         else if (state == GameState::Inventory) {
             renderInventory();
             handleInventoryInput();
+        }
+        else if (state == GameState::GameOver) {
+            std::cout << "\n*** You have fallen in the dungeon. GAME OVER ***\n"
+                      << "Press any key to exit.\n";
+            getCharInput();
+            isRunning = false;
         }
     }
 }

@@ -3,7 +3,7 @@
 #include "../Core/GameLoop.h"
 
 Player::Player(int x, int y)
-    : Entity(x, y, '@', 100, 10)
+    : Entity(x, y, '@', MAX_HP, 10)
 { }
 
 void Player::update(Map& map, GameLoop& loop) {
@@ -42,7 +42,7 @@ void Player::displayInventory() const {
 
 void Player::heal(int amount) {
     hp += amount;
-    if (hp > 100) hp = 100;
+    if (hp > MAX_HP) hp = MAX_HP;
     std::cout << "You healed " << amount << " HP. Current HP: " << hp << "\n";
     Logger::log("Player healed to " + std::to_string(hp) + " HP");
 }

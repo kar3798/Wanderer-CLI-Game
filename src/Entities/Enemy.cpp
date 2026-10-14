@@ -1,5 +1,6 @@
 #include "Enemy.h"
 #include <random>
+#include <cstdlib>
 #include "../Utils/Logger.h"
 #include "../Core/GameLoop.h"
 
@@ -12,6 +13,15 @@ Enemy::Enemy(int x, int y)
 { }
 
 void Enemy::update(Map& map, GameLoop& loop) {
+    Player& player = loop.getPlayer();
+    int distance = std::abs(player.getX() - getX()) + std::abs(player.getY() - getY());
+    if (distance == 1) {
+        player.takeDamage(attack);
+        loop.addMessage("The enemy hits you for " + std::to_string(attack) + " damage!");
+        Logger::log("Enemy attacked player for " + std::to_string(attack));
+        return;
+    }
+
     static std::mt19937 rng(std::random_device{}());
     static std::uniform_int_distribution<int> dist(0, 3);
 

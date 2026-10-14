@@ -15,12 +15,13 @@ class GameLoop {
 public:
     void start();
     bool isEntityAt(int x, int y, Entity* exclude);
+    void addMessage(const std::string& msg);
+    Player& getPlayer() { return *player; }
 
 private:
     void printTitleArt();
     void printLoadingBar();
     void render();
-    void addMessage(const std::string& msg);
     void movePlayer(int dx, int dy, const std::string& direction);
     int handleInput();
     void updateWorld();
@@ -46,7 +47,8 @@ private:
 
     enum class GameState {
         Playing,
-        Inventory
+        Inventory,
+        GameOver
     };
 
     GameState state = GameState::Playing;

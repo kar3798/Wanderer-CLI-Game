@@ -9,6 +9,7 @@
 
 class Player : public Entity {
 public:
+    static constexpr int MAX_HP = 100;
 
     Player(int x, int y);
 
